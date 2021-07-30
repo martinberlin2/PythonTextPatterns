@@ -1,1 +1,4 @@
+PythonTextPatterns
+
 30.7. init, Quellcode von privlab pushed 
+3007 1325 vb jetzt getPartString , darin findSubstr

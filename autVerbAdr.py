@@ -37,8 +37,9 @@ def my_main():
 
 def getInfoByPattern(block): # -> csvString; delim = ";"
 	Titel = getTitle(block)
-	Kategorie = getKategorie(block)
-	Adresse = getAdresse(block)
+	# Kategorie = getKategorie(block)
+	getStrHAnr
+	getPlzOrt
 	Mail = getMail(block)
 	Ansprechpartner = getAnsprechpartner(block)
 	Website = getWebsite(block)
@@ -130,52 +131,41 @@ def getAnsprechpartner(base): # -> Ansprechpartner: <- "Vorsitzende", "Ansprechp
 	return getPartString(base, delFrom, hitNumberFrom, delUntil, hitNumberUntil)
 	
 
-	# Mail		<- "mailto:" sofort bis "
-def getTitle(base): # -> string Title. base: String, worin gesucht wird 
-	startTrigger = 
-	startAt = 
-	hitNumberFrom = 
-	endTrigger = 
-	endAt = 
-	hitNumberUntil =
+	# Mail		
+def getMail(base): # -> "mailto:" sofort bis "
+	startTrigger = "mailto:"
+	startAt = ""
+	hitNumberFrom = 1
+	endTrigger = '"'
+	endAt = ""
+	hitNumberUntil = 1
 	delFrom = [startTrigger, startAt]
 	delUntil = [endTrigger, endAt]
-	getPartString(base, delFrom, hitNumberFrom, delUntil, hitNumberUntil)
+	return getPartString(base, delFrom, hitNumberFrom, delUntil, hitNumberUntil)
 
+
+
+def getWebsite(base): # ->  
+	startTrigger = "http"
+	startAt = ""
+	hitNumberFrom = 1
+	endTrigger = "<"
+	endAt = ""
+	hitNumberUntil = 1
+	delFrom = [startTrigger, startAt]
+	delUntil = [endTrigger, endAt]
+	return getPartString(base, delFrom, hitNumberFrom, delUntil, hitNumberUntil)
 	
-
-def getWebsite(base): # -> 
-def getTitle(base): # -> string Title. base: String, worin gesucht wird 
-	startTrigger = 
-	startAt = 
-	hitNumberFrom = 
-	endTrigger = 
-	endAt = 
-	hitNumberUntil =
-	delFrom = [startTrigger, startAt]
-	delUntil = [endTrigger, endAt]
-	getPartString(base, delFrom, hitNumberFrom, delUntil, hitNumberUntil)
+def getPartString(base, delFrom, hitNumberFrom, delUntil, hitNumberUntil): 
+	
+	
 	
 	# TODO
 	# Titel = getPartString(block, delFrom[[Trigger: string, start: string]], hitNumberFrom, delUntil[[Trigger: string, end: string]], hitNumberUntil)
 	 
-	
-	
-	# pydef thon readfile eof of file
-	# --	
-		# if strg == '' or substr == '':
-		# return "EmptyString"
-	# while pos <= endpos :
-		# if strg[pos] == substr[0]:
-
-	
-	# 		rtext = rfile.readline()
-	# with open(outfile, "a") as headerFile:
-		# headerFile.write(line)
 		
 	# ----- TODO -----	
 	# getTitle(base) 
 	# getPartString(base, delFrom, hitNumberFrom, delUntil, hitNumberUntil)
-	# getInfo(block)  ... getPartString für Kategorien ausführen
 	# main 
 
