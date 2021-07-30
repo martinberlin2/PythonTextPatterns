@@ -1,0 +1,1447 @@
+﻿264" onclick="toggleInfo(marker_264);" class="even"><td><span>Sonstige Einrichtungen</span>	</td><td><strong>Lebenshilfe Delmenhorst und Landkreis Oldenburg e.V. und gem. GmbH</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td>Bismarckstraße 21 <br /> 
+                27749 Delmenhorst</td><td>Angebote:<br />Frühe Hilfen, Familienunterstützender Dienst, Sozialpädagogische Familienhilfe, Heilpädagogischer Kindergarten, Integrative Kindertagesstätten, Katenkamp-Schule (staatl. anerekannte Tagesbildungsstätte), Wohnangebote, Offene Hilfen, Bildung und Beratung, Förderung und Begleitung von Kindern und Jugendlichen (ambulant und teilstationär) mit Störungen aus dem Autismus-Spektrum in verschiedenen Einrichtuingsbereichen. <br /><br /><a href="mailto:geschaeftsstelle@lebenshilfe-delmenhorst.de">geschaeftsstelle@lebenshilfe-delmenhorst.de</a><br /> http://www.lebenshilfe-delmenhorst.de</td></tr><tr class="standorte" id="
+
+
+222" onclick="toggleInfo(marker_222);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>CSW - Christliches Sozialwerk gGmbH, Regionalverwaltung Dresden</strong><br /><span>Sonstige Einrichtungen</span><br /> Sachsen </td><td>Friedrichstraße 18 <br /> 
+                01067 Dresden</td><td><p>Ansprechpartner: Ansgar Klinitzke</p><p>Angebote:<br /> Interdisziplinäre Frühförderung St. Notburga, Fachdienst für Menschen mit Wahrnehmungs- und Bindungsstörungen, Integrations-Kindertageseinrichtung St. Valentin, Förderschulzentrum St. Franziskus, Wohnheime, Ambulant Betreutes Wohnen, WfbM St. Josef (anerkannte Werkstatt für behinderte Menschen), Familienunterstützender Dienst St. Anna.</p><br /><br /><a href="mailto:ansgar.klinitzke@christliches-sozialwerk-ggmbh.de">ansgar.klinitzke@christliches-sozialwerk-ggmbh.de</a><br /> http://www.christliches-sozialwerk-ggmbh.de</td></tr><tr class="standorte" id="
+
+
+220" onclick="toggleInfo(marker_220);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz Dresden, Uniklinikum Carl Gustav Carus, Klinik für Kinder- und Jugendpsychiatrie</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Sachsen </td><td>Blasewitzer Straße 86 (Haus 105, 2.OG) <br /> 
+                01307 Dresden</td><td><br /><br /><a href="mailto:KJPAutismusambulanz@uniklinikum-dresden.de">KJPAutismusambulanz@uniklinikum-dresden.de</a><br /></td></tr><tr class="standorte" id="
+
+
+216" onclick="toggleInfo(marker_216);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Dresden e.V.</strong><br /><span>Regionalverband</span><br /> Sachsen </td><td>Max-Pechstein-Straße 24 <br /> 
+                01728 Goppeln</td><td>Vorsitzender: Andreas Boeltzig <br /><br /><a href="mailto:autismus.dresden@gmx.de">autismus.dresden@gmx.de</a><br /></td></tr><tr class="standorte" id="
+
+
+214" onclick="toggleInfo(marker_214);" class="even"><td><span>Regionalverband</span></td><td><strong>Regionalverband autismus-oberlausitz e.V. im Autismuszentrum Oberlausitz</strong><br /><span>Regionalverband</span><br /> Sachsen </td><td>Taucherstraße 9 <br /> 
+                02625 Bautzen</td><td>Vorsitzende: Katja Mager <br /><br /><a href="mailto:info@autismus-oberlausitz.de">info@autismus-oberlausitz.de</a><br /> http://www.autismus-oberlausitz.de</td></tr><tr class="standorte" id="
+
+
+219" onclick="toggleInfo(marker_219);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismuszentrum Oberlausitz, Bürgerhilfe Sachsen e.V.</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Sachsen </td><td>Taucherstraße 9 <br /> 
+                02625 Bautzen</td><td><br /><br /><a href="mailto:autismuszentrum.bautzen@buergerhilfe-sachsen.de">autismuszentrum.bautzen@buergerhilfe-sachsen.de</a><br /> http://www.autismuszentrum-oberlausitz.de</td></tr><tr class="standorte" id="
+
+
+217" onclick="toggleInfo(marker_217);" class="even"><td><span>Regionalverband</span></td><td><strong>Autismus Leipzig e.V., Regionalverband zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Sachsen </td><td>Schenkendorfstraße 10 <br /> 
+                04275 Leipzig</td><td><p>Vorsitzender: Holger Jahn</p><br /><br /><a href="mailto:autismus.leipzig.ev@googlemail.com">autismus.leipzig.ev@googlemail.com</a><br /></td></tr><tr class="standorte" id="
+
+
+221" onclick="toggleInfo(marker_221);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz Leipzig</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Sachsen </td><td>Schenkendorfstraße 10 <br /> 
+                04275 Leipzig</td><td><p>Träger: Berufsbildungswerk Leipzig gGmbH</p><br /><br /><a href="mailto:autismusambulanz@bbw-leipzig.de">autismusambulanz@bbw-leipzig.de</a><br /> http://www.jugend-und-erziehungshilfe.de</td></tr><tr class="standorte" id="
+
+
+228" onclick="toggleInfo(marker_228);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz,  Int. Bildungs- und Sozialwerk e.V.</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Sachsen-Anhalt </td><td>Willy-Brand-Straße 82 <br /> 
+                06110 Halle/Saale</td><td><br /><br /><a href="mailto:autismus-halle@int-bsw.de">autismus-halle@int-bsw.de</a><br /> http://autismusambulanz-halle.de</td></tr><tr class="standorte" id="
+
+
+244" onclick="toggleInfo(marker_244);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Haus &quot;Am Kyffhäuser&quot;, Wohn- und Therapiezentrum für Menschen mit Autismus</strong><br /><span>Wohnstätten</span><br /> Thüringen </td><td>Kyffhäuser Straße 46 <br /> 
+                06567 Bad Frankenhausen (Nordthüringen)</td><td>30 vollstationäre Plätze in vier Wohngruppen für Menschen mit Asperger-Syndrom, Atypischer Autismus und Frühkindlicher Autismus <br /><br /><a href="mailto:haus-am-kyffhaeuser@int-bsw.de">haus-am-kyffhaeuser@int-bsw.de</a><br /></td></tr><tr class="standorte" id="
+
+
+229" onclick="toggleInfo(marker_229);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz,  Int. Bildungs- und Sozialwerk e.V.</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Sachsen-Anhalt </td><td>Lutherstraße 15 <br /> 
+                06886 Lutherstadt Wittenberg</td><td><br /><br /><a href="mailto:autismus-wittenberg@int-bsw.de">autismus-wittenberg@int-bsw.de</a><br /></td></tr><tr class="standorte" id="
+
+
+238" onclick="toggleInfo(marker_238);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Mittelthüringen e.V., Vereinigung zur Förderung autistischer Menschen</strong><br /><span>Regionalverband</span><br /> Thüringen </td><td>Pestalozzistraße 3 <br /> 
+                07407 Rudolstadt</td><td><br /><br /><a href="mailto:k.brueggemann@autismus-mittelthueringen.de">k.brueggemann@autismus-mittelthueringen.de</a><br /> http://www.autismus-mittelthueringen.de</td></tr><tr class="standorte" id="
+
+
+239" onclick="toggleInfo(marker_239);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Ostthüringen e.V.</strong><br /><span>Regionalverband</span><br /> Thüringen </td><td>Postfach 1343 <br /> 
+                07503 Gera</td><td><p>Vorsitzende: Susan Kirchner</p><br /><br /><a href="mailto:info@autismus-ostthueringen.de">info@autismus-ostthueringen.de</a><br /> http://www.autismus-ostthueringen.de</td></tr><tr class="standorte" id="
+
+
+316" onclick="toggleInfo(marker_316);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Herbert Feuchte Stiftungsverbund gemeinnützige GmbH  -  Außenstelle des Frühförder- und Beratungszentrum Autismus/Unterstützte Kommunikation/Rund ums Hören in Gera</strong><br /><span>Sonstige Einrichtungen</span><br /> Thüringen </td><td>Bahnhofstraße 18 <br /> 
+                07545 Gera</td><td><br /><br /><a href="mailto:kuehn@stiftungsverbund.de">kuehn@stiftungsverbund.de</a><br /> http://www.stiftungsverbund.de</td></tr><tr class="standorte" id="
+
+
+240" onclick="toggleInfo(marker_240);" class="even"><td><span>Regionalverband</span></td><td><strong>Hilfe für das autistische Kind, Vereinigung zur Förderung autistischer Menschen, RV Thüringen e.V.</strong><br /><span>Regionalverband</span><br /> Thüringen </td><td>Lahnsteiner Straße 60 <br /> 
+                07629 Hermsdorf</td><td><p>Vorsitzende: Birgit Hopfe</p><br /><br /><a href="mailto:autismus-thueringen@web.de">autismus-thueringen@web.de</a><br /></td></tr><tr class="standorte" id="
+
+
+247" onclick="toggleInfo(marker_247);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Herbert Feuchte Stiftungsverbund gemeinnützige GmbH, Außenstelle des Frühförder- und Beratungszentrum Autismus / Unterstützte Kommunikation / Rund um´s Hören in Jena</strong><br /><span>Sonstige Einrichtungen</span><br /> Thüringen </td><td>Dornburger Straße 161 <br /> 
+                07743 Jena</td><td><br /><br /><a href="mailto:kuehn@stiftungsverbund.de">kuehn@stiftungsverbund.de</a><br /> http://www.stiftungsverbund.de</td></tr><tr class="standorte" id="
+
+
+246" onclick="toggleInfo(marker_246);" class="even"><td><span>Wohnstätten</span>, <span>Sonstige Einrichtungen</span></td><td><strong>Pädagogisches Zentrum Schleiz/Thüringen, Beratungsstelle für autistische Menschen und ihre Familien</strong><br /><span>Wohnstätten</span>, <span>Sonstige Einrichtungen</span><br /> Thüringen </td><td>Hofer Straße 16 a <br /> 
+                07907 Schleiz</td><td>Angebote:<br />Frühförder- und Beratungszentrum, staatl. anerkannte private Förderschule mit schulvorbereitender Einrichtung, Wohnheime für Kinder und Jugendliche, Wohnheime und Beschäftigungsangebote für Erwachsene
+Träger:<br />Herbert-Feuchte-Stiftungsverbund gGmbH<br />Büsumer Straße 2, 25746 Heide/Holstein<br />Tel. 0481 / 78 67 00, Fax 0481 / 786 70 20 <br /><br /><a href="mailto:ffbz-schleiz@stiftungsverbund.de">ffbz-schleiz@stiftungsverbund.de</a><br /> http://www.stiftungsverbund.de</td></tr><tr class="standorte" id="
+
+
+213" onclick="toggleInfo(marker_213);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Vogtland e.V., Vereinigung zur Förderung autistischer Menschen</strong><br /><span>Regionalverband</span><br /> Sachsen </td><td>Breitscheidstraße 33 <br /> 
+                08209 Auerbach</td><td>1. Vorsitzende: Sabine Heckel
+2. Vorsitzende: Christine Siegel <br /><br /><a href="mailto:info@autismus-vogtland.de">info@autismus-vogtland.de</a><br /> http://www.autismus-vogtland.de</td></tr><tr class="standorte" id="
+
+
+215" onclick="toggleInfo(marker_215);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Chemnitz e.V., Vereinigung zur Förderung autistischer Menschen, RV Chemnitz e.V.</strong><br /><span>Regionalverband</span><br /> Sachsen </td><td>Stadlerstraße 4 <br /> 
+                09126 Chemnitz</td><td><p>Vorsitzende: Conny Mohe</p><br /><br /><a href="mailto:vorstand@autismus-chemnitz.de">vorstand@autismus-chemnitz.de</a><br /> http://www.autismus-chemnitz.de</td></tr><tr class="standorte" id="
+
+
+218" onclick="toggleInfo(marker_218);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismuszentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Sachsen </td><td>Stadler Straße 4 <br /> 
+                09126 Chemnitz</td><td><br /><br /><a href="mailto:info@autismus-chemnitz.de">info@autismus-chemnitz.de</a><br /> http://www.autismus-chemnitz.de</td></tr><tr class="standorte" id="
+
+
+297" onclick="toggleInfo(marker_297);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Außenstelle Annaberg</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Sachsen </td><td>Buchholzer Straße 7 <br /> 
+                09456 Annaberg-Buchholz</td><td>Leiterin: Dr. Bärbel Klapper <br /><br /><a href="mailto:autismus.annaberg@gmx.de">autismus.annaberg@gmx.de</a><br /></td></tr><tr class="standorte" id="
+
+
+72" onclick="toggleInfo(marker_72);" class="odd"><td><span>Regionalverband</span></td><td><strong>Autismus Deutschland  Vereinigung zur Förderung von Menschen mit Autismus, LV Berlin e.V.</strong><br /><span>Regionalverband</span><br /> Berlin </td><td>Geschäftsstelle: Güntzelstraße 17/18 <br /> 
+                10717 Berlin</td><td><p>Vorsitzende: Johanna Kehr</p><br /><br /><a href="mailto:ambulanz@autismus-berlin.de">ambulanz@autismus-berlin.de</a><br /> http://www.autismus-berlin.de</td></tr><tr class="standorte" id="
+
+
+73" onclick="toggleInfo(marker_73);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Ambulanz (Beratungsstelle) des Vereins autismus Deutschland, LV Berlin e.V.</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Berlin </td><td>Arno-Holz-Straße 10 <br /> 
+                12165 Berlin</td><td><p>Beratungsstelle mit Angeboten für soziale Gruppenarbeit und ambulante Hilfen.<br /> 2 Frühfördergruppen für Kinder mit Autismus</p><br /><br /><a href="mailto:ambulanz@autismus-berlin.de">ambulanz@autismus-berlin.de</a><br /> http://www.autismus-berlin.de</td></tr><tr class="standorte" id="
+
+
+74" onclick="toggleInfo(marker_74);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Wohnstätte</strong><br /><span>Wohnstätten</span><br /> Berlin </td><td>Arno-Holz-Straße 10 a <br /> 
+                12165 Berlin</td><td>18 Plätze für autistische Erwachsene mit externer Tagesstruktur
+26 Plätze Therapeutische betreutes Einzelwohnen (BEW)
+Träger:<br />Autismus Deutschland Landesverband Berlin e.V.<br />E-Mail: <link wohnen@autismus-berlin.de>wohnen@autismus-berlin.de</link>, Internet: <link http://www.autismus-berlin.de/wohn1.htm>www.autismus-berlin.de/wohn1.htm</link><br /><br /><a href="mailto:betreuteswohnen@autismus-berlin.de">betreuteswohnen@autismus-berlin.de</a><br /></td></tr><tr class="standorte" id="
+
+
+77" onclick="toggleInfo(marker_77);" class="even"><td><span>Wohnstätten</span></td><td><strong>Von-Moltke-Haus</strong><br /><span>Wohnstätten</span><br /> Brandenburg </td><td>Steinstraße 98 a <br /> 
+                14480 Potsdam</td><td>Wohnstätte für Jugendliche und junge Erwachsene mit Autismus und geistiger Behinderung.
+<div class="indent">Träger: Verein Oberlinhaus
+Tagesstruktur Tel.: 0331 / 730 90 23</div><br /><br /><a href="mailto:autismuswohnstaette@oberlinhaus.de">autismuswohnstaette@oberlinhaus.de</a><br /> http://www.oberlinhaus.de</td></tr><tr class="standorte" id="
+
+
+76" onclick="toggleInfo(marker_76);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Verein Oberlinhaus, Autismuszentrum</strong><br /><span>Sonstige Einrichtungen</span><br /> Brandenburg </td><td>Rudolf-Breitscheid-Straße 26 <br /> 
+                14482 Potsdam</td><td><br /><br /><a href="mailto:autismus@oberlinhaus.de">autismus@oberlinhaus.de</a><br /> http://www.oberlinhaus.de</td></tr><tr class="standorte" id="
+
+
+75" onclick="toggleInfo(marker_75);" class="even"><td><span>Regionalverband</span></td><td><strong>Autismus Deutschland e.V.  LV Brandenburg  Vereinigung zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Brandenburg </td><td>Friedrich-Hegl-Straße 13 <br /> 
+                15230 Frankfurt (Oder)</td><td>Vorsitzende: Martina Reinke <br /><br /><a href="mailto:info@autismusbrandenburg.de">info@autismusbrandenburg.de</a><br /> http://www.autismusbrandenburg.de</td></tr><tr class="standorte" id="
+
+
+104" onclick="toggleInfo(marker_104);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Ambulanz mit mobilem Dienst bei der Lebenshilfe Nbg. e.V.</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Mecklenburg-Vorpommern </td><td>Mlada-Boleslaver-Straße 1 <br /> 
+                17033 Neubrandenburg</td><td><br /><br /><a href="mailto:autismus@lebenshilfe-neubrandenburg.de">autismus@lebenshilfe-neubrandenburg.de</a><br /> http://www.lebenshilfe-neubrandenburg.de</td></tr><tr class="standorte" id="
+
+
+106" onclick="toggleInfo(marker_106);" class="even"><td><span>Wohnstätten</span></td><td><strong>Haus Erlenbruch  -  Wohnen und Teilhabe am Arbeitsleben für Menschen mit autistischen Störungen</strong><br /><span>Wohnstätten</span><br /> Mecklenburg-Vorpommern </td><td>Dorfstraße 32 <br /> 
+                17091 Groß Teetzleben</td><td>Ansprechpartnerin: Gerlinde Strachardt <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+105" onclick="toggleInfo(marker_105);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Ambulanz Region Rostock</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Mecklenburg-Vorpommern </td><td>Goethestraße 15 <br /> 
+                18055 Rostock</td><td><br /><br /><a href="mailto:Autismusambulanz-Rostock@volkssolidaritaet.de">Autismusambulanz-Rostock@volkssolidaritaet.de</a><br /> http://https://www.vs-hro.de/autismusambulanz/autismusambulanz-rostock/</td></tr><tr class="standorte" id="
+
+
+342" onclick="toggleInfo(marker_342);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Beratungs- und Koordinationsstelle Autismus &quot;Gemeinsames Haus&quot; Rostock e.V.</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Henrik-Ibsen-Str. 20 <br /> 
+                18106 Rostock</td><td><br /><br /><a href="mailto:info@autismus-mv.de">info@autismus-mv.de</a><br /></td></tr><tr class="standorte" id="
+
+
+103" onclick="toggleInfo(marker_103);" class="odd"><td><span>Regionalverband</span></td><td><strong>Landesverband Autismus Mecklenburg-Vorpommern</strong><br /><span>Regionalverband</span><br /> Mecklenburg-Vorpommern </td><td>Tannenbergstraße 12 <br /> 
+                18258 Schwaan</td><td><p>Vorsitzende:</p><p>Rosita Mewis</p><p>rosita.mewis@autismus-mv.de</p><br /><br /><a href="mailto:info@autismus-mv.de">info@autismus-mv.de</a><br /> http://www.autismus-mv.de</td></tr><tr class="standorte" id="
+
+
+307" onclick="toggleInfo(marker_307);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz Region Schwerin</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Mecklenburg-Vorpommern </td><td>Schelfstraße 35 <br /> 
+                19055 Schwerin</td><td><p>Leitung: Sabine Damm, Bildungswissenschaftlerin Schwerpunkt Frühe Hilfen</p><br /><br /><a href="mailto:autismus-sn@vs-hro.de">autismus-sn@vs-hro.de</a><br /> http://www.vs-hro.de/autismusambulanz</td></tr><tr class="standorte" id="
+
+
+22" onclick="toggleInfo(marker_22);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>autismus Deutschland-Stiftung</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Rothenbaumchaussee 15 <br /> 
+                20148 Hamburg</td><td><br /><br /><a href="mailto:info@autismus.de">info@autismus.de</a><br /> http://www.autismus-deutschland-stiftung.de</td></tr><tr class="standorte" id="
+
+
+23" onclick="toggleInfo(marker_23);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Stiftung Irene - Gemeinnützige Stiftung zum Wohle autistischer Menschen</strong><br /><span>Sonstige Einrichtungen</span><br /> Hamburg </td><td>Heimweg 10 <br /> 
+                20148 Hamburg</td><td><br /><br /><a href="mailto:autismus@stiftung-irene.de">autismus@stiftung-irene.de</a><br /> http://www.stiftung-irene.de</td></tr><tr class="standorte" id="
+
+
+119" onclick="toggleInfo(marker_119);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Lessingstraße 1 <br /> 
+                21335 Lüneburg</td><td><br /><br /><a href="mailto:info@autismus-hamburg.de">info@autismus-hamburg.de</a><br /> http://www.autismus-hamburg.de</td></tr><tr class="standorte" id="
+
+
+273" onclick="toggleInfo(marker_273);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Die Börne gGmbH - Gemeinnützige Gesellschaft für Soziale Dienste mbH</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td>Claus-von-Stauffenberg-Weg 10 <br /> 
+                21684 Stade</td><td>Angebote:<br />Therapien, Kindergärten, Soziale Dienste, Integrierte Schulbetreuung von Kindern und Jugendlichen mit autistischen Störungen, Arbeitsassistenz, interdisziplinäre Therapiezentren. <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+274" onclick="toggleInfo(marker_274);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum der Börne</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Claus-von-Stauffenberg-Weg 10 <br /> 
+                21684 Stade</td><td><p>Ansprechpartnerin: Sabine Hecheltjen</p><br /><br /><a href="mailto:autismus-stade@dieboerne.de">autismus-stade@dieboerne.de</a><br /> http://www.dieboerne.de</td></tr><tr class="standorte" id="
+
+
+367" onclick="toggleInfo(marker_367);" class="even"><td><span>Wohnstätten</span></td><td><strong>Ambulant betreutes Wohnen für Menschen im Autismus Spektrum</strong><br /><span>Wohnstätten</span><br /></td><td>Claus-von-Stauffenberg-Weg 10 <br /> 
+                21684 Stade</td><td><br /><br /><a href="mailto:wohnen@dieboerne.de">wohnen@dieboerne.de</a><br /> http://https://www.dieboerne.de</td></tr><tr class="standorte" id="
+
+
+368" onclick="toggleInfo(marker_368);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Integrative Schulbetreuung Stade</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Claus-von-Stauffenberg-Weg 10 <br /> 
+                21684 Stade</td><td><br /><br /><a href="mailto:schulbetreuung-stade@dieboerne.de">schulbetreuung-stade@dieboerne.de</a><br /> http://https://www.dieboerne.de</td></tr><tr class="standorte" id="
+
+
+19" onclick="toggleInfo(marker_19);" class="even"><td><span>Regionalverband</span></td><td><strong>Autismus Landesverband Hamburg e.V.</strong><br /><span>Regionalverband</span><br /> Hamburg </td><td>Alsterdorfer Markt 4 <br /> 
+                22297 Hamburg</td><td><p>Vorsitzende: Ute Kellermann</p><br /><br /><a href="mailto:info@autismus-hamburg.de">info@autismus-hamburg.de</a><br /> http://www.autismus-hamburg.de</td></tr><tr class="standorte" id="
+
+
+20" onclick="toggleInfo(marker_20);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Hamburger Autismus Institut (Ambulanz)</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Alsterdorfer Markt 4 <br /> 
+                22297 Hamburg</td><td><br /><br /><a href="mailto:info@autismus-hamburg.de">info@autismus-hamburg.de</a><br /> http://www.autismus-hamburg.de</td></tr><tr class="standorte" id="
+
+
+24" onclick="toggleInfo(marker_24);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Das Rauhe Haus, Stiftungsbereich Behindertenhilfe</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Fuhlsbüttler Str. 415 a <br /> 
+                22309 Hamburg</td><td><p>Fachbereich Autismus, Wohnen und Arbeit<br /> Ansprechpartnerin: Petra Steinborn<br /> &nbsp;</p><br /><br /><a href="mailto:autismus@rauheshaus.de">autismus@rauheshaus.de</a><br /> http://www.rauheshaus.de</td></tr><tr class="standorte" id="
+
+
+312" onclick="toggleInfo(marker_312);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Lübeck</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Schleswig-Holstein </td><td>Kantstraße 15-17 <br /> 
+                23566 Lübeck</td><td><br /><br /><a href="mailto:info@autismus-sh.de">info@autismus-sh.de</a><br /> http://www.autismus-sh.de</td></tr><tr class="standorte" id="
+
+
+288" onclick="toggleInfo(marker_288);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Elbe-Trave e.V.</strong><br /><span>Regionalverband</span><br /> Schleswig-Holstein </td><td>Travemünder Allee 30 <br /> 
+                23568 Lübeck</td><td><p>Vorsitzender: Björn Soltwedel</p><br /><br /><a href="mailto:info@autismus-elbe-trave.de">info@autismus-elbe-trave.de</a><br /> http://www.autismus-elbe-trave.de</td></tr><tr class="standorte" id="
+
+
+290" onclick="toggleInfo(marker_290);" class="odd"><td><span>Wohnstätten</span></td><td><strong>IWT Intensivwohnungstraining Lübeck</strong><br /><span>Wohnstätten</span><br /> Schleswig-Holstein </td><td>Travemünder Allee 105 <br /> 
+                23568 Lübeck</td><td>Intensivwohnungstraining (IWT) für junge Erwachsene (ab 17 J.) mit ASS, vorwiegend Asperger-Syndrom.
+Stationäres autismusspezifisches Angebot zur Verselbständigung. Nachts ist nur Rufbereitschaft, da es um Verselbständigung geht.
+Angestrebt wird auch regelmäßige Beschäftigung am Tag (Arbeit, Ausbildung, Schule).
+10 Plätze
+<br />Ansprechpartnerin: 
+Desiree Staringer, Tel. 0157-74 95 98 44, per Mail <link dstaringer@web.de>dstaringer@web.de</link><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+301" onclick="toggleInfo(marker_301);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Institut Lübeck</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Schleswig-Holstein </td><td>Travemünder Allee 30 <br /> 
+                23568 Lübeck</td><td><br /><br /><a href="mailto:info@autismus-institut-luebeck.de">info@autismus-institut-luebeck.de</a><br /> http://www.autismus-institut-luebeck.de</td></tr><tr class="standorte" id="
+
+
+302" onclick="toggleInfo(marker_302);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Bugenhagen Berufsbildungswerk</strong><br /><span>Sonstige Einrichtungen</span><br /> Schleswig-Holstein </td><td>Strandallee 2 a <br /> 
+                23669 Timmendorfer Strand</td><td><br /><br /><a href="mailto:info@bugenhagen.de">info@bugenhagen.de</a><br /> http://www.bugenhagen.de</td></tr><tr class="standorte" id="
+
+
+293" onclick="toggleInfo(marker_293);" class="even"><td><span>Wohnstätten</span></td><td><strong>Das Don Bosco-Haus für das behinderte Kind e.V.</strong><br /><span>Wohnstätten</span><br /> Schleswig-Holstein </td><td>Pater-Lenner-Weg 1 <br /> 
+                23879 Mölln</td><td>Christlich ausgerichtete Einrichtung für 165 Bewohner mit schwerst mehrfach Behinderungen in 6 Häusern.
+1 Haus mit 20 Bewohnern wurde speziell für Menschen mit Autismus konzipiert, die besonders schwer betroffen sind.
+Arbeit nach dem TEACCH-Ansatz. Individuell abgestimmtes Förderprogramm.
+<br />Heimleitung: Harry Harms
+
+ <br /><br /><a href="mailto:info@donbosco-haus.de">info@donbosco-haus.de</a><br /> http://www.donbosco-haus.de</td></tr><tr class="standorte" id="
+
+
+234" onclick="toggleInfo(marker_234);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Ambulanz und Beratungsstelle</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Schleswig-Holstein </td><td>Feldstraße 92 <br /> 
+                24105 Kiel</td><td><br /><br /><a href="mailto:info@autismus-sh.de">info@autismus-sh.de</a><br /> http://www.autismus-sh.de</td></tr><tr class="standorte" id="
+
+
+237" onclick="toggleInfo(marker_237);" class="even"><td><span>Wohnstätten</span></td><td><strong>Das Heilpädagogium an der Ostsee</strong><br /><span>Wohnstätten</span><br /> Schleswig-Holstein </td><td>Brennofenweg 4 <br /> 
+                24340 Eckernförde</td><td><p>Das Heilpädagogium an der Ostsee</p><p>Wohngruppen für Kinder u. Jugendliche u.a. mit Autismus</p><p>Wohnassistenz in bes. Wohnform für erwachsenen Menschen u.a. im Autismus-Spektrum, die tagsüber einer Beschäftigung nachgehen</p><p>Wohnhaus speziell für Menschen mit hohem Hilfebedarf, Schwerpunkt Autismus</p><p>Tagesförderstätte, Schwerpunkt Autismus-Spektrum</p><p>Ambulante Assistenz für erwachsene Menschen im Autismus-Spektrum</p><p>Ansprechpartner: Frau Petra Weinekötter (Fachbereichsleitung SGB XII)</p><p>Tel.: 04351/90 09 47</p><p>Fax: 04351/90 09 56</p><br /><br /><a href="mailto:p.weinekoetter@heilpaedagogium.de">p.weinekoetter@heilpaedagogium.de</a><br /> http://www.heilpaedagogium.de</td></tr><tr class="standorte" id="
+
+
+311" onclick="toggleInfo(marker_311);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Neumünster</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Schleswig-Holstein </td><td>Brachenfelder Straße 28 <br /> 
+                24534 Neumünster</td><td><br /><br /><a href="mailto:info@autismus-sh.de">info@autismus-sh.de</a><br /> http://www.autismus-sh.de</td></tr><tr class="standorte" id="
+
+
+233" onclick="toggleInfo(marker_233);" class="even"><td><span>Regionalverband</span></td><td><strong>Hilfe für das autistische Kind, LV Schleswig-Holstein e.V.</strong><br /><span>Regionalverband</span><br /> Schleswig-Holstein </td><td>Marienstraße 1 c <br /> 
+                24534 Neumünster</td><td><p>Vorsitzende: Edith Albrecht</p><br /><br /><a href="mailto:info@autismus-sh.de">info@autismus-sh.de</a><br /> http://www.autismus-sh.de</td></tr><tr class="standorte" id="
+
+
+323" onclick="toggleInfo(marker_323);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Zweigstelle Praxis Regenschein</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Heinrich-Bachmann-Str. 9 <br /> 
+                24613 Schwalmstadt-Treysa</td><td><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+291" onclick="toggleInfo(marker_291);" class="even"><td><span>Wohnstätten</span></td><td><strong>IWT Intensivwohntraining Rendsburg</strong><br /><span>Wohnstätten</span><br /> Schleswig-Holstein </td><td>Lilienstraße 2 <br /> 
+                24768 Rendsburg</td><td><p>Intensivwohnungstraining (IWT) für junge Erwachsene (ab 17 J.) mit ASS, vorwiegend Asperger-Syndrom.</p><p>Stationäres autismusspezifisches Angebot zur Verselbständigung. Nachts ist nur Rufbereitschaft, da es um Verselbständigung geht.</p><p>Angestrebt wird auch regelmäßige Beschäftigung am Tag (Arbeit, Ausbildung, Schule).</p><p>10 Plätze</p><p><br /> Ansprechpartnerin:</p><p>Desiree Staringer, Tel. 0157-74 95 98 44, per Mail <a href="mailto:dstaringer@web.de">dstaringer@web.de</a></p><p>Frau Kriese, per Mail Kathrin.kriese@netzwerk-Nord-ost.de</p><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+300" onclick="toggleInfo(marker_300);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Haus am Klev - Therapeutische Facheinrichtung für Kinder und Jugendliche aus dem Formenkreis Autismus</strong><br /><span>Wohnstätten</span><br /> Schleswig-Holstein </td><td>Am Sportplatz 1 <br /> 
+                25693 St. Michaelisdonn</td><td>Leitung: Vilma Müller <br /><br /><a href="mailto:facheinrichtungamklev@t-online.de">facheinrichtungamklev@t-online.de</a><br /></td></tr><tr class="standorte" id="
+
+
+289" onclick="toggleInfo(marker_289);" class="even"><td><span>Wohnstätten</span></td><td><strong>IWT Intensivwohnungstraining Husum</strong><br /><span>Wohnstätten</span><br /> Schleswig-Holstein </td><td>Hermann-Tast-Straße 15 <br /> 
+                25813 Husum</td><td><p>Intensivwohnungstraining (IWT) für junge Erwachsene (ab 17 J.) mit ASS, vorwiegend Asperger-Syndrom.</p><p>Stationäres autismusspezifisches Angebot zur Verselbständigung. Nachts ist nur Rufbereitschaft, da es um Verselbständigung geht.</p><p>Angestrebt wird auch regelmäßige Beschäftigung am Tag (Arbeit, Ausbildung, Schule).</p><p>10 Plätze</p><p><br /> Ansprechpartnerin:</p><p>Desiree Staringer, Tel. 0157-74 95 98 44, per Mail Desiree.staringer@Netzwerk-Nord-ost.de</p><p>Frau Kriese, per Mail Kathrin.kriese@netzwerk-Nord-ost.de</p><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+236" onclick="toggleInfo(marker_236);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Therapeutische Wohngruppe Seeth</strong><br /><span>Wohnstätten</span><br /> Schleswig-Holstein </td><td>Hauptstr. 61 <br /> 
+                25878 Seeth</td><td><p>Träger:</p><p>Verein zur Förderung von Integration entwicklungsgehemmter und behinderter Menschen e.V.</p><p>Schwienkamp 8</p><p>24803 Erfde</p><p>Tel. und Fax 0431 / 69 08 36</p><br /><br /><a href="mailto:buero@twg-seeth.de">buero@twg-seeth.de</a><br /></td></tr><tr class="standorte" id="
+
+
+349" onclick="toggleInfo(marker_349);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>MoPäD Nord – Mobile pädagogische Dienste für erwachsene Menschen mit einer Behinderung aus dem autistischen Spektrum</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Münnichstraße 109 <br /> 
+                26133 Oldenburg</td><td><br /><br /><a href="mailto:info@autismus-weser-ems.de">info@autismus-weser-ems.de</a><br /> http://www.autismus-weser-ems.de</td></tr><tr class="standorte" id="
+
+
+121" onclick="toggleInfo(marker_121);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Münnichstraße 109 <br /> 
+                26133 Oldenburg</td><td><br /><br /><a href="mailto:info@autismus-weser-ems.de">info@autismus-weser-ems.de</a><br /> http://www.autismus-weser-ems.de</td></tr><tr class="standorte" id="
+
+
+255" onclick="toggleInfo(marker_255);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Zweigstelle Bad Zwischenahn des Autismus-Therapie-Zentrums Wilhelmshaven</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Postweg 3 <br /> 
+                26160 Bad Zwischenahn</td><td><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+261" onclick="toggleInfo(marker_261);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Jugendhilfe Collstede</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Uhlhornstraße 28 <br /> 
+                26345 Bockhorn</td><td><p>Therapeutische Wohngruppe für Kinder und Jugendliche mit Autismus-Spektrum-Störungen.<br /> Multiprofessionelle Begleitung und Förderung in den Bereichen Wohnen, Therapie und Schule unter einem Dach.<br /> Aufnahmealter ab dem 12. Lebensjahr</p><p>Träger:<br /> Diakonisches Werk Oldenburg - Jugendhilfe gGmbH</p><br /><br /><a href="mailto:info@jugendhilfe-collstede.de">info@jugendhilfe-collstede.de</a><br /> http://www.jugendhilfe-collstede.de</td></tr><tr class="standorte" id="
+
+
+254" onclick="toggleInfo(marker_254);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Marktstraße 1 <br /> 
+                26382 Wilhelmshaven</td><td><br /><br /><a href="mailto:hannes.brandt@gps-wilhelmshaven.de">hannes.brandt@gps-wilhelmshaven.de</a><br /></td></tr><tr class="standorte" id="
+
+
+115" onclick="toggleInfo(marker_115);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Auricher Straße 81 <br /> 
+                26721 Emden</td><td><br /><br /><a href="mailto:info@autismus-weser-ems.de">info@autismus-weser-ems.de</a><br /> http://www.autismus-weser-ems.de</td></tr><tr class="standorte" id="
+
+
+364" onclick="toggleInfo(marker_364);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Bremer Str. 78 <br /> 
+                26789 Leer</td><td><br /><br /><a href="mailto:info@autismus-weser-ems.de">info@autismus-weser-ems.de</a><br /> http://www.autismus-weser-ems.de</td></tr><tr class="standorte" id="
+
+
+122" onclick="toggleInfo(marker_122);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Bahnhofstraße 19 <br /> 
+                27211 Bassum</td><td><br /><br /><a href="mailto:info@autismus-weser-ems.de">info@autismus-weser-ems.de</a><br /> http://www.autismus-weser-ems.de</td></tr><tr class="standorte" id="
+
+
+17" onclick="toggleInfo(marker_17);" class="even"><td><span>Wohnstätten</span></td><td><strong>Hof Meyerwiede</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Grinden 21 <br /> 
+                27299 Langwedel-Etelsen</td><td><div>Lebensgemeinschaft für autistische Menschen</div><div>Wald- und Gartenarbeit, Tischlerei-/Weberwerkstätten</div><div>Tagesbetreuung</div><div>20 Plätze, Aufnahmealter: 18 Jahre</div><div>Träger: Autismushilfen gemeinn. GmbH, Grinden 21, 27299 Langwedel-Etelsen,</div><div>Tel.: 0 42 35 / 84 84</div><br /><br /><a href="mailto:info@hof-meyerwiede.de">info@hof-meyerwiede.de</a><br /> http://www.hof-meyerwiede.de</td></tr><tr class="standorte" id="
+
+
+366" onclick="toggleInfo(marker_366);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Therapie und Beratungszentrum Zeven</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Rhalandstraße 26 <br /> 
+                27404 Zeven</td><td><br /><br /><a href="E-Mail:" target="autismus-zeven@dieboerne">E-Mail: autismus-zeven@dieboerne</a><br /> http://https://www.dieboerne.de/die-boerne.htm</td></tr><tr class="standorte" id="
+
+
+369" onclick="toggleInfo(marker_369);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Integrative Schulbetreuung Zeven</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Rhalandstraße 26 <br /> 
+                27404 Zeven</td><td><br /><br /><a href="mailto:schulbetreuung-zeven@dieboerne.de">schulbetreuung-zeven@dieboerne.de</a><br /> http://https://www.dieboerne.de</td></tr><tr class="standorte" id="
+
+
+363" onclick="toggleInfo(marker_363);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum Bremerhaven -  Außenstelle Cuxhaven</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Nordfeldstraße 22a <br /> 
+                27476 Cuxhaven</td><td><br /><br /><a href="mailto:info@atz-bremerhaven.de">info@atz-bremerhaven.de</a><br /> http://www.autismus-bremen.de/cuxhaven/</td></tr><tr class="standorte" id="
+
+
+15" onclick="toggleInfo(marker_15);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum Bremerhaven</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Friedrich-Ebert-Str. 33 <br /> 
+                27570 Bremerhaven</td><td><br /><br /><a href="mailto:info@atz-bremerhaven.de">info@atz-bremerhaven.de</a><br /> http://www.atz-bremerhaven.de</td></tr><tr class="standorte" id="
+
+
+14" onclick="toggleInfo(marker_14);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum Bremerhaven - Außenstelle Debstedt</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Langener Str. 66 <br /> 
+                27607 Geestland</td><td><p>Hinweis: Kontaktaufnahme ausschließlich über das Therapiezentrum Bremerhaven</p><br /><br /><a href="mailto:info@atz-bremerhaven.de">info@atz-bremerhaven.de</a><br /> http://www.atz-bremerhaven.de</td></tr><tr class="standorte" id="
+
+
+260" onclick="toggleInfo(marker_260);" class="even"><td><span>Wohnstätten</span></td><td><strong>Diakonie Himmelsthür - Haus 79 und Haus 81</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Dr. Klingenberg-Straße 79 - 81 <br /> 
+                27793 Wildeshausen</td><td><p>14 Plätze für erwachsene Menschen mit Kanner-Autismus; Wohnen und Tagesförderung</p><p>Bei Anfragen:<br /> Johanna Mönnich (Kundenberatung) Diakonie Himmelsthür, Region Nds.-Nord)<br /> Tel. 04431 / 836 78,</p><p>Internet: <a href="http://www.diakoniehimmelsthuer.de">www.diakoniehimmelsthuer.de</a></p><br /><br /><a href="mailto:johanna.moennich@dh-himmelsthuer.de">johanna.moennich@dh-himmelsthuer.de</a><br /> http://www.diakoniehimmelsthuer.de</td></tr><tr class="standorte" id="
+
+
+12" onclick="toggleInfo(marker_12);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum Bremen-Buntentor</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Dorotheenstr. 1 <br /> 
+                28201 Bremen</td><td><br /><br /><a href="mailto:buntentor@atz-bremen.de">buntentor@atz-bremen.de</a><br /> http://www.autismus-bremen.de</td></tr><tr class="standorte" id="
+
+
+13" onclick="toggleInfo(marker_13);" class="even"><td><span>Regionalverband</span></td><td><strong>Autismus Bremen e.V. RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /></td><td>Stader Str. 35 <br /> 
+                28205 Bremen</td><td><p>Vorsitzender: Dr. Magnus Buhlert</p><p>Vereinssitz: Clamersdorfer Straße 47, 28757 Bremen</p><br /><br /><a href="mailto:info@autismus-bremen.de">info@autismus-bremen.de</a><br /> http://www.autismus-bremen.de</td></tr><tr class="standorte" id="
+
+
+309" onclick="toggleInfo(marker_309);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Beratungsstelle Autismus Bremen e.V.</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Bremen </td><td>Stader Str. 35 <br /> 
+                28205 Bremen</td><td><br /><br /><a href="mailto:beratung@autismus-bremen.de">beratung@autismus-bremen.de</a><br /> http://www.autismus-bremen.de</td></tr><tr class="standorte" id="
+
+
+310" onclick="toggleInfo(marker_310);" class="even"><td><span>Wohnstätten</span></td><td><strong>Ambulante Autismushilfe</strong><br /><span>Wohnstätten</span><br /> Bremen </td><td>Hastedter Heerstraße 135 <br /> 
+                28207 Bremen</td><td><br /><br /><a href="mailto:info@ambulante-autismushilfe.de">info@ambulante-autismushilfe.de</a><br /> http://www.ambulante-autismushilfe.de</td></tr><tr class="standorte" id="
+
+
+11" onclick="toggleInfo(marker_11);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Therapiezentrum Bremen-Gröpelingen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Bremen </td><td>Gröpelinger Heerstr. 335 <br /> 
+                28239 Bremen</td><td><br /><br /><a href="mailto:groepelingen@atz-bremen.de">groepelingen@atz-bremen.de</a><br /> http://www.autismus-bremen.de</td></tr><tr class="standorte" id="
+
+
+18" onclick="toggleInfo(marker_18);" class="even"><td><span>Wohnstätten</span></td><td><strong>Haus Hemelingen</strong><br /><span>Wohnstätten</span><br /></td><td>Brunostr. 3 <br /> 
+                28309 Bremen</td><td><div>Heilpädagogische Wohngruppe von Menschen mit autistischer Behinderung (Asperger / Highfunctioning</div><div>Autisten), 7 Plätze, Aufnahmealter: 18 Jahre</div><div><div>Träger: Autismushilfen gemeinn. GmbH, Grinden 21, 27299 Langwedel-Etelsen,</div><div>Tel. 0 42 35 / 84 84</div></div><br /><br /><a href="mailto:info@haus-hemelingen.de">info@haus-hemelingen.de</a><br /> http://www.haus-hemelingen.de</td></tr><tr class="standorte" id="
+
+
+16" onclick="toggleInfo(marker_16);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum Bremen-Schönebeck</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Clamersdorfer Str. 47 <br /> 
+                28757 Bremen</td><td><br /><br /><a href="mailto:info@atz-bremen.de">info@atz-bremen.de</a><br /> http://www.autismus-bremen.de</td></tr><tr class="standorte" id="
+
+
+263" onclick="toggleInfo(marker_263);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Stiftung Linerhaus</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td><br /> 
+                29227 Celle</td><td>Angebote:<br />Behindertenarbeit, Sonderpädagogische Hausfrühförderung, Ausbildung und Qualifizierung, Kinder- und Jugendhilfe, Kindertagesstätten. <br /><br /><a href="mailto:linerhaus@t-online.de">linerhaus@t-online.de</a><br /> http://www.stiftung-linerhaus.de</td></tr><tr class="standorte" id="
+
+
+107" onclick="toggleInfo(marker_107);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Celle e.V.  -  RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Niedersachsen </td><td>Alvernsche Straße 18 <br /> 
+                29229 Celle</td><td><p>Vorsitzende: Anke Wiechmann</p><br /><br /><a href="mailto:t.hensel@autismus-celle.de">t.hensel@autismus-celle.de</a><br /> http://www.autismus-celle.de</td></tr><tr class="standorte" id="
+
+
+132" onclick="toggleInfo(marker_132);" class="even"><td><span>Wohnstätten</span></td><td><strong>Heilpädagogisches Kinderheim Haus Sonnentau</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Hermann-Löns-Straße 1 <br /> 
+                29451 Dannenberg</td><td><p>Ansprechpartner: Marita Stein-Putzier</p><p>Träger: DRK Kreisverband Lüchow-Dannenberg<br /> Am Reiterstadion 1 a, 29451 Dannenberg<br /> Tel. 05861 / 988 00<br /> E-Mail: <a href="mailto:info@drk-dan.de">info@drk-dan.de</a> Internet: <a href="http://www.drk-dank.de">www.drk-dank.de</a></p><br /><br /><a href="mailto:el-sonnentau@drk-dan.de">el-sonnentau@drk-dan.de</a><br /></td></tr><tr class="standorte" id="
+
+
+136" onclick="toggleInfo(marker_136);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Weidenhof</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Prof. -Wohltmann-Str. 10 <br /> 
+                29456 Hitzacker</td><td><p>Aufnahmealter ab 18 Jahre<br /> Eigene Tagesförderstätten<br /><br /> Träger: Stiftung Irene - Gemeinnützige Stiftung zum Wohle autistischer Menschen<br /> Postfach 300 146, 20301 Hamburg<br /> Tel. 040 / 34 51 96<br /> E-Mail: <a href="mailto:autismus@stiftung-irene.de">autismus@stiftung-irene.de</a><br /> Internet: <a href="http://www.stiftung-irene.de">www.stiftung-irene.de</a></p><br /><br /><a href="mailto:elbufer@weidenhof-autismus.de">elbufer@weidenhof-autismus.de</a><br /> http://www.weidenhof-autismus.de</td></tr><tr class="standorte" id="
+
+
+324" onclick="toggleInfo(marker_324);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Beratungsstelle Autismus</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Herrenstraße 8 <br /> 
+                30159 Hannover</td><td><p>Träger: Autismus-Zentrum Hannover GmbH</p><br /><br /><a href="mailto:info@beratungsstelle-autismus-hannover.de">info@beratungsstelle-autismus-hannover.de</a><br /> http://www.beratungsstelle-autismus-hannover.de</td></tr><tr class="standorte" id="
+
+
+134" onclick="toggleInfo(marker_134);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Ambulantes Betreutes Wohnen für Menschen mit Autismus</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Hildesheimer Straße 29 <br /> 
+                30169 Hannover</td><td>Hannoversche Werkstätten ge. GmbH<br />Hannoversche WohnAssistenz (Ambulante Einrichtung) <br /><br /><a href="mailto:wohnen@hw-hannover.de">wohnen@hw-hannover.de</a><br /> http://www.hw-hannover.de</td></tr><tr class="standorte" id="
+
+
+118" onclick="toggleInfo(marker_118);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Zentrum Hannover GmbH  -  Ambulanz und Beratungsstelle</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Brehmstraße 10 <br /> 
+                30173 Hannover</td><td><p>Träger: Autismus-Zentrum-Hannover GmbH<br /> Geschäftsführung und Verwaltung, Prinz-Albrecht-Ring 63, 30657 Hannover<br /> Tel. 0511 / 676 75 90, Fax 0511 / 67 67 59 59</p><br /><br /><a href="mailto:ambulanz@autismus-hannover.de">ambulanz@autismus-hannover.de</a><br /> http://www.autismus-hannover.de</td></tr><tr class="standorte" id="
+
+
+267" onclick="toggleInfo(marker_267);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Annastift Leben und Lernen gGmbH</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td>Wülfener Straße 60 <br /> 
+                30539 Hannover</td><td><div class="indent">Ansprechpartner: Dr. Ulrich Spielmann</div><br /><br /><a href="mailto:behindertenhilfe@annastift.de">behindertenhilfe@annastift.de</a><br /></td></tr><tr class="standorte" id="
+
+
+266" onclick="toggleInfo(marker_266);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Mosaik gem. GmbH - inklusiv Leben, Ambulante Wohnschule</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td>Bleekstraße 26 <br /> 
+                30559 Hannover</td><td><br /><br /><a href="mailto:info@mosaik-inklusiv-leben.de">info@mosaik-inklusiv-leben.de</a><br /> http://www.mosaik-inklusiv-leben.de</td></tr><tr class="standorte" id="
+
+
+110" onclick="toggleInfo(marker_110);" class="odd"><td><span>Regionalverband</span></td><td><strong>Autismus Hannover e.V.  -  RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Niedersachsen </td><td>Geschäftsstelle: Bemeroder Straße 8 <br /> 
+                30559 Hannover</td><td><p>Vorsitzende: Frau Dr. Marlies Kroetsch</p><br /><br /><a href="mailto:verein@autismus-hannover.de">verein@autismus-hannover.de</a><br /> http://www.autismus-hannover.de</td></tr><tr class="standorte" id="
+
+
+117" onclick="toggleInfo(marker_117);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Zentrum Hannover GmbH  - Tagesbildungsstätte, 5-Tage-Internat, Heilpädagogischer Kindergarten</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Bemeroder Str. 8 <br /> 
+                30559 Hannover</td><td><p>Träger: Autismus Zentrum Hannover GmbH<br /> Geschäftsführung und Verwaltung, Prinz-Albrecht-Ring 63, 30657 Hannover<br /> Tel. 0511 / 676 75 90, Fax 0511 / 67 67 59 59</p><br /><br /><a href="mailto:info@autismus-hannover.de">info@autismus-hannover.de</a><br /> http://www.autismus-hannover.de</td></tr><tr class="standorte" id="
+
+
+109" onclick="toggleInfo(marker_109);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Hildesheim e.V.</strong><br /><span>Regionalverband</span><br /> Niedersachsen </td><td>Steintor 8 <br /> 
+                31028 Gronau (Leine)</td><td><br /><br /><a href="mailto:info@autismus-hildesheim.de">info@autismus-hildesheim.de</a><br /> http://www.autismus-hildesheim.de</td></tr><tr class="standorte" id="
+
+
+339" onclick="toggleInfo(marker_339);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismus-Ambulanz Alfeld/Hildesheim</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Königsberger Str. 49 <br /> 
+                31061 Alfeld (Leine)</td><td><br /><br /><a href="mailto:autismusambulanzalfeld@lebenshilfe-alfeld.de">autismusambulanzalfeld@lebenshilfe-alfeld.de</a><br /> http://www.lebenshilfe-alfeld.de</td></tr><tr class="standorte" id="
+
+
+133" onclick="toggleInfo(marker_133);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Autismus-Zentrum Hannover GmbH - Wohngruppen für Kinder und Jugendliche mit Autismus</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Emmerker Straße 59 <br /> 
+                31180 Giesen</td><td><p>Träger: Therapiezentrum für autistische Kinder gGmbH Hannover<br /> Geschäftsführung und Verwaltung, Prinz-Albrecht-Ring 63, 30657 Hannover<br /> Tel. 0511 / 676 75 90, Fax 0511 / 67 67 59 59</p><br /><br /><a href="mailto:wg-giesen@autismus-hannover.de">wg-giesen@autismus-hannover.de</a><br /> http://www.autismus-hannover.de</td></tr><tr class="standorte" id="
+
+
+253" onclick="toggleInfo(marker_253);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz Peine der Arbeitsgemeinschaft Lebenshilfen Ostniedersachsen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Lehmkuhlenweg 1 <br /> 
+                31224 Peine</td><td><p>Leitung: Frau Janette Michehl</p><br /><br /><a href="mailto:autismusambulanz@lebenshilfe-braunschweig.de">autismusambulanz@lebenshilfe-braunschweig.de</a><br /></td></tr><tr class="standorte" id="
+
+
+113" onclick="toggleInfo(marker_113);" class="odd"><td><span>Regionalverband</span></td><td><strong>RV Schaumburg/Nienburg e.V. zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Niedersachsen </td><td>Blumenstraße 32 <br /> 
+                31547 Rehburg-Loccum</td><td><p>Ansprechpartnerin: Iris Wesling</p><br /><br /><a href="mailto:iris.wesling@t-online.de">iris.wesling@t-online.de</a><br /></td></tr><tr class="standorte" id="
+
+
+327" onclick="toggleInfo(marker_327);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismusambulanz Schaumburg</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Enzer Str. 50 <br /> 
+                31655 Stadthagen</td><td><p>Träger: Paritätische Lebenshilfe Schaumburg-Weserbergland GmbH</p><br /><br /><a href="mailto:f.weinert@plsw.de">f.weinert@plsw.de</a><br /> http://www.plsw.de</td></tr><tr class="standorte" id="
+
+
+326" onclick="toggleInfo(marker_326);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismusambulanz Hameln-Pyrmont</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Hermannstraße 1 <br /> 
+                31785 Hameln</td><td><p>Träger: Paritätische Lebenshilfe Schaumburg-Westerbergland GmbH</p><p>Weitere Standorte: Stadthagen und Holzminden</p><br /><br /><a href="mailto:n.jarosch@plsw.de">n.jarosch@plsw.de</a><br /></td></tr><tr class="standorte" id="
+
+
+127" onclick="toggleInfo(marker_127);" class="even"><td><span>Wohnstätten</span></td><td><strong>Haus Windmühle</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Baarsen 60 <br /> 
+                31812 Bad Pyrmont</td><td>17 Wohneinheiten
+Träger:<br />Haus im Wind<br />Inhaberin: Beate Lunburg<br />Baarsen 60<br />31812 Bad Pyrmont<br />Telefon 05285 / 654<br />Fax 05285 / 940 40<br />E-Mail: info@hausimwind.de, Internet: www.hausimwind.de<br /><br /><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+129" onclick="toggleInfo(marker_129);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Tagesförderstätte</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td>Baarsen 60 <br /> 
+                31812 Bad Pyrmont</td><td>31 Plätze
+Ansprechpartnerin: Anja de Groot<
+Träger:<br />Haus im Wind<br />Inhaberin: Beate Lunburg<br />Baarsen 60<br />31812 Bad Pyrmont<br />Telefon 05285 / 99 01 33<br />Fax 05285 / 940 40<br />E-Mail: info@hausimwind.de, Internet: www.hausimwind.de<br /><br /><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+259" onclick="toggleInfo(marker_259);" class="even"><td><span>Wohnstätten</span></td><td><strong>Hannoversche Werkstätten gem. GmbH, Wohneinrichtung für Menschen mit Autismus; Stationäres Wohnangebot</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Hiddestorfer Straße 2 <br /> 
+                31832 Springe</td><td><br /><br /><a href="mailto:Autismus@hw-hannover.de">Autismus@hw-hannover.de</a><br /> http://www.hw-hannover.de</td></tr><tr class="standorte" id="
+
+
+277" onclick="toggleInfo(marker_277);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Wittekindshof - Diakonische Stiftung für Menschen mit Behinderungen</strong><br /><span>Sonstige Einrichtungen</span><br /> Nordrhein-Westfalen </td><td>Zur Kirche 2 <br /> 
+                32549 Bad Oeynhausen</td><td><br /><br /><a href="mailto:info@wittekindshof.de">info@wittekindshof.de</a><br /> http://www.wittekindshof.de</td></tr><tr class="standorte" id="
+
+
+192" onclick="toggleInfo(marker_192);" class="even"><td><span>Wohnstätten</span></td><td><strong>Einrichtungsverbund Spatzenberg der AWO</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Neuer Kamp 120 <br /> 
+                32584 Löhne</td><td>Ansprechpartner: Frau Dr. Dittrich (Einrichtungsleitung) <br /><br /><a href="mailto:info@awo-spatzenberg.de">info@awo-spatzenberg.de</a><br /></td></tr><tr class="standorte" id="
+
+
+153" onclick="toggleInfo(marker_153);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Paderborn Nebenstelle des Autismus-Therapie-Zentrums Bielefeld</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Dessauer Straße 4 <br /> 
+                33106 Paderborn</td><td><br /><br /><a href="mailto:paderborn@autismus-owl.de">paderborn@autismus-owl.de</a><br /></td></tr><tr class="standorte" id="
+
+
+152" onclick="toggleInfo(marker_152);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Güterloh Nebenstelle des Autismus-Therapie-Zentrums Bielefeld</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td><br /> 
+                33332 Gütersloh</td><td>Kontakt über das
+Autismus-Therapie-Zentrum Bielefeld Tel. 0521 / 32 20 11 <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+139" onclick="toggleInfo(marker_139);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Ostwestfalen-Lippe e.V.   RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Nordrhein-Westfalen </td><td>Geschäftsstelle: Bleichstraße 185 <br /> 
+                33607 Bielefeld</td><td><br /><br /><a href="mailto:info@autismus-owl.de">info@autismus-owl.de</a><br /> http://www.autismus-owl.de</td></tr><tr class="standorte" id="
+
+
+151" onclick="toggleInfo(marker_151);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum (Diagnostik, Beratung, Therapie u. Supervision)</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Bleichstraße 185 <br /> 
+                33607 Bielefeld</td><td><p>Postanschrift + Verwaltung: Herforder Str. 127, 33609 Bielefeld</p><br /><br /><a href="mailto:info@autismus-owl.de">info@autismus-owl.de</a><br /> http://www.autismus-owl.de</td></tr><tr class="standorte" id="
+
+
+278" onclick="toggleInfo(marker_278);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Frida gGmbH - Familienunterstützender regionaler Integrationsassistenzdienst für Menschen mit Autismus</strong><br /><span>Sonstige Einrichtungen</span><br /> Nordrhein-Westfalen </td><td>Herforder Str. 127 <br /> 
+                33609 Bielefeld</td><td><br /><br /><a href="mailto:frida@autismus-owl.de">frida@autismus-owl.de</a><br /></td></tr><tr class="standorte" id="
+
+
+182" onclick="toggleInfo(marker_182);" class="even"><td><span>Wohnstätten</span></td><td><strong>BeWo - Ambulant Betreutes Wohnen für Menschen mit Autismus</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Herforder Str. 127 <br /> 
+                33609 Bielefeld</td><td><br /><br /><a href="mailto:bewo@autismus-owl.de">bewo@autismus-owl.de</a><br /></td></tr><tr class="standorte" id="
+
+
+279" onclick="toggleInfo(marker_279);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>WIE - Westfäisches Institut für Entwicklungsförderung</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Königsweg 9 <br /> 
+                33617 Bielefeld</td><td>Träger: Pro entwicklung e.V.
+Angebote:<br />Diagnostik, Beratung von Familien, Einzel- und Gruppentherapie, Elterntrainings, Beratung und Fallsupervision von Einrichtungen, Informations- und Fortbildungsveranstaltungen.<br />In Kooperation mit dem Trägerverein: Freizeitpädagogische und Familienentlastende Angebote sowie Familienseminare <br /><br /><a href="mailto:info@wie-bielefeld.de">info@wie-bielefeld.de</a><br /> http://www.wie-bielefeld.de</td></tr><tr class="standorte" id="
+
+
+81" onclick="toggleInfo(marker_81);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Therapie- und Beratungszentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Kölnische Straße 43 <br /> 
+                34117 Kassel</td><td><br /><br /><a href="mailto:info@autismus-hessen.de">info@autismus-hessen.de</a><br /> http://www.autismus-hessen.de</td></tr><tr class="standorte" id="
+
+
+82" onclick="toggleInfo(marker_82);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Therapie- und Beratungszentrum Außenstelle Marbachshöhe</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Brandenburger Straße 6 <br /> 
+                34131 Kassel</td><td><br /><br /><a href="mailto:info@autismus-hessen.de">info@autismus-hessen.de</a><br /> http://www.autismus-hessen.de</td></tr><tr class="standorte" id="
+
+
+85" onclick="toggleInfo(marker_85);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Therapie- und Beratungszentrum Außenstelle Bad Arolsen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td><br /> 
+                34454 Bad Arolsen</td><td><br /><br /><a href="mailto:info@autismus-hessen.de">info@autismus-hessen.de</a><br /> http://www.autismus-hessen.de</td></tr><tr class="standorte" id="
+
+
+335" onclick="toggleInfo(marker_335);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Therapie- und Beratungszentrum Außenstelle Korbach</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Briloner Landstraße 21 <br /> 
+                34497 Korbach</td><td><br /><br /><a href="mailto:koordinationwafkb@autismus-hessen.de">koordinationwafkb@autismus-hessen.de</a><br /> http://www.autismus-hessen.de</td></tr><tr class="standorte" id="
+
+
+341" onclick="toggleInfo(marker_341);" class="even"><td><span>Wohnstätten</span></td><td><strong>Internationales Bildungs- und Sozialwerk e.V. Jugendhaus Willingen</strong><br /><span>Wohnstätten</span><br /> Hessen </td><td>Zum Ritzhagen 25 <br /> 
+                34508 Willingen/Upland</td><td><p>Kinder- und Jegendeinrichtung für Menschen mit Autismus-Spektrum-Störungen. Es sind 24 Plätze vorgesehen.</p><br /><br /><a href="mailto:jugendhaus-willingen@int-bsw.de">jugendhaus-willingen@int-bsw.de</a><br /> http://www.int-bsw.de</td></tr><tr class="standorte" id="
+
+
+78" onclick="toggleInfo(marker_78);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Nordhessen e.V.   RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Hessen </td><td>Werrastraße 5 <br /> 
+                34582 Borken</td><td><p>Vorsitzender: Horst Wischek</p><br /><br /><a href="mailto:horst.wischek@t-online.de">horst.wischek@t-online.de</a><br /></td></tr><tr class="standorte" id="
+
+
+97" onclick="toggleInfo(marker_97);" class="even"><td><span>Wohnstätten</span></td><td><strong>Haus Maranatha</strong><br /><span>Wohnstätten</span><br /> Hessen </td><td>Westrandstraße 42 <br /> 
+                34582 Borken</td><td>Wohneinrichtung mit therapeutischem und motopädischem Beschäftigungsbereich für erwachsene autistische Menschen.
+19 Plätze
+Träger: Hephata, Hess. Diakoniezentrum e.V., 34613 Schwalmstadt <br /><br /><a href="mailto:maranatha@hephata.com">maranatha@hephata.com</a><br /> http://www.hephata.de</td></tr><tr class="standorte" id="
+
+
+322" onclick="toggleInfo(marker_322);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Praxis Regenschein</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Liebigstraße 9 <br /> 
+                35037 Marburg</td><td><br /><br /><a href="mailto:info@praxis-regenschein.de">info@praxis-regenschein.de</a><br /> http://www.praxis-regenschein.de</td></tr><tr class="standorte" id="
+
+
+84" onclick="toggleInfo(marker_84);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Therapie- und Beratungszentrum Außenstelle Frankenberg</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Friedrich-Trost-Straße 4 <br /> 
+                35066 Frankenberg</td><td><br /><br /><a href="mailto:info@autismus-hessen.de">info@autismus-hessen.de</a><br /> http://www.autismus-hessen.de</td></tr><tr class="standorte" id="
+
+
+92" onclick="toggleInfo(marker_92);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Regionalstelle Gießen des Autismus-Therapieinstituts Langen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Wingert 18 <br /> 
+                35396 Gießen</td><td><p>Erste Kontaktaufnahme für alle Regionalstellen über die zentrale Verwaltung in Langen:</p><p>Tel. 06103 / 20 28 60<br /><a href="http://www.autismus-langen.de">www.autismus-langen.de</a></p><br /><br /><a href="mailto:autismus@behindertenhilfe-offenbach.de">autismus@behindertenhilfe-offenbach.de</a><br /></td></tr><tr class="standorte" id="
+
+
+100" onclick="toggleInfo(marker_100);" class="even"><td><span>Wohnstätten</span></td><td><strong>Wohnstätte &quot;Grüninger Weg&quot; der Lebenshilfe</strong><br /><span>Wohnstätten</span><br /> Hessen </td><td>Grüninger Weg 29 a <br /> 
+                35415 Pohlheim-Garbenteich</td><td>6 Plätze, Aufnahmealter 18 Jahre
+Träger: 
+Kreisvereinigung Gießen e.V.<br />Lebenshilfe für Menschen mit geistiger Behinderung<br />Grüninger Weg 29<br />35415 Pohlheim-Garbenteich<br />Tel. 06404 / 80 42 00, Fax 06404 / 80 42 44<br /><br /><br /><br /><a href="mailto:info@lebenshilfe-giessen.de">info@lebenshilfe-giessen.de</a><br /> http://www.lebenshilfe-giessen.de</td></tr><tr class="standorte" id="
+
+
+79" onclick="toggleInfo(marker_79);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Mittelhessen e.V.  RV zur Förderung, Beratung und Begleitung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Hessen </td><td>Postfach 11 69 <br /> 
+                35416 Buseck</td><td>Vorsitzender: Frank Becker <br /><br /><a href="mailto:info@autismus-mittelhessen.de">info@autismus-mittelhessen.de</a><br /> http://www.autismus-mittelhessen.de</td></tr><tr class="standorte" id="
+
+
+86" onclick="toggleInfo(marker_86);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Therapie- und Beratungszentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Rabanusstraße 35 <br /> 
+                36037 Fulda</td><td><br /><br /><a href="mailto:info@autismus-fulda.de">info@autismus-fulda.de</a><br /> http://www.autismus-fulda.de</td></tr><tr class="standorte" id="
+
+
+98" onclick="toggleInfo(marker_98);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Lebensbrücke - Leben, Arbeit und Freizeit für Menschen aus dem Autismus Spektrum - Tanner Diakoniezentrum gemeinnützige GmbH</strong><br /><span>Wohnstätten</span><br /> Hessen </td><td>Brembacherweg 22 c <br /> 
+                36129 Gersfeld</td><td><p>Wohngruppe mit Tagesförderung, 7 Plätze für Menschen mit Frühkindlichem Autismus, Aufnahmealter 18 Jahre</p><br /><br /><a href="mailto:TWerrbach@tanner-diakonie.de" title="SDonath@tanner-diakonie.de">TWerrbach@tanner-diakonie.de   SDonath@tanner-diakonie.de</a><br /> http://https://tanner-diakonie.de/</td></tr><tr class="standorte" id="
+
+
+336" onclick="toggleInfo(marker_336);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Therapie- und Beratungszentrum Außenstelle Bad Hersfeld</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Breitenstraße 4 <br /> 
+                36251 Bad Hersfeld</td><td><br /><br /><a href="mailto:emmert@autismus-hessen.de">emmert@autismus-hessen.de</a><br /> http://www.autismus-fulda.de</td></tr><tr class="standorte" id="
+
+
+265" onclick="toggleInfo(marker_265);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Ifas - gemeinnützige Einrichtung mit den Geschäftsbereichen Rehabilitation, Jugendhilfe, Ambulante Angebote und Bildung</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td>Weender Landstraße 29 <br /> 
+                37073 Göttingen</td><td><p>ifas - gemeinnützige Einrichtung mit den Geschäftsbereichen berufliche und medizinische Rehabilitation, Jugendhilfe und ambulante Betreuung.</p><p>Als anerkannte Einrichtung nach §51 SGB IX bietet ifas Jugendlichen und jungen Erwachsenen aus dem Autismusspektrum Reha-Maßnahmen zur Berufsvorbereitung und Erstausbildung an (BORA und BORA II). Bei Bedarf kann eine Unterbringung in unseren betreuten Wohngruppen erfolgen.</p><br /><br /><a href="mailto:info@ifas-goettingen.de">info@ifas-goettingen.de</a><br /> http://www.ifas-goettingen.de</td></tr><tr class="standorte" id="
+
+
+344" onclick="toggleInfo(marker_344);" class="even"><td><span>Wohnstätten</span></td><td><strong>Wohngruppe JUMA</strong><br /><span>Wohnstätten</span><br /></td><td><br /> 
+                37073 Göttingen</td><td><br /><br /><a href="mailto:info@ifas-goettingen.de">info@ifas-goettingen.de</a><br /> http://www.ifas-goettingen.de</td></tr><tr class="standorte" id="
+
+
+116" onclick="toggleInfo(marker_116);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Weender Landstraße 59 <br /> 
+                37075 Göttingen</td><td><p>(Neuer Träger seit 01.01.2020: Georg-August-Universität Göttingen. Ansprechpartner sind Frau Prof. Dr. med. Luise Poustka bzw. Herr Dr. Andreas Becker, Klinik für Kinder- und Jugendpsychiatrie/Psychotherapie, von-Siebold-Str. 5, 37075 Göttingen, Tel.: 05 51 / 3 96 64 58)</p><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+108" onclick="toggleInfo(marker_108);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Göttingen e.V.  -  RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Niedersachsen </td><td>Kampweg 3 <br /> 
+                37133 Friedland</td><td>Vorsitzender: Lothar Zeuner <br /><br /><a href="mailto:lrzeuner@t-online.de">lrzeuner@t-online.de</a><br /> http://www.autismus-goettingen.de</td></tr><tr class="standorte" id="
+
+
+102" onclick="toggleInfo(marker_102);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismus-Stiftung</strong><br /><span>Sonstige Einrichtungen</span><br /> Hessen </td><td>Losseweg 9 c <br /> 
+                37235 Hessisch-Lichtenau</td><td>Vorstandsvorsitzender: Walter Wagner
+Vorsitzender des Stiftungsrats: Dr. Karl Tjaden<br />Grüner Waldweg 41, 34121 Kassel<br />Tel. 0561 / 343 16, Fax 0561 / 316 98 14 <br /><br /><a href="mailto:info@autismusstiftung.de">info@autismusstiftung.de</a><br /> http://www.autismusstiftung.de</td></tr><tr class="standorte" id="
+
+
+83" onclick="toggleInfo(marker_83);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Therapie- und Beratungszentrum Außenstelle Eschwege</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>An den Anlagen 8 <br /> 
+                37269 Eschwege</td><td><br /><br /><a href="mailto:info@autismus-hessen.de">info@autismus-hessen.de</a><br /> http://www.autismus-hessen.de</td></tr><tr class="standorte" id="
+
+
+298" onclick="toggleInfo(marker_298);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismuszentrum Kleine Wege in Heiligenstadt</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Thüringen </td><td>Bahnhofstraße 22 <br /> 
+                37308 Heiligenstadt</td><td><br /><br /><a href="mailto:heiligenstadt@kleine-wege.de">heiligenstadt@kleine-wege.de</a><br /> http://www.kleine-wege.de</td></tr><tr class="standorte" id="
+
+
+248" onclick="toggleInfo(marker_248);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismusambulanz Leinefelde</strong><br /><span>Sonstige Einrichtungen</span><br /> Thüringen </td><td>Gewerbepark Süd 7 <br /> 
+                37327 Leinefelde-Worbis</td><td><p>Ansprechpartnerin: Leiterin Dorothea Marx</p><br /><br /><a href="mailto:autismus-leinefelde@int-bsw.de">autismus-leinefelde@int-bsw.de</a><br /></td></tr><tr class="standorte" id="
+
+
+249" onclick="toggleInfo(marker_249);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Wohn- und Therapiezentrum &quot;Haus am Lunapark&quot;</strong><br /><span>Sonstige Einrichtungen</span><br /> Thüringen </td><td>Stormstraße 1 <br /> 
+                37327 Leinefelde-Worbis</td><td><p>Ansprechpartenerin: Leiterin Uta Hübenthal</p><br /><br /><a href="mailto:haus-am-lunapark@int-bsw.de">haus-am-lunapark@int-bsw.de</a><br /></td></tr><tr class="standorte" id="
+
+
+325" onclick="toggleInfo(marker_325);" class="even"><td><span>Regionalverband</span></td><td><strong>Regionalverband Autismus Südost-Niedersachsen e.V.</strong><br /><span>Regionalverband</span><br /> Niedersachsen </td><td>Zechenstr. 39 <br /> 
+                37431 Bad Lauterberg</td><td><p>1. Vorsitzende: Frau Grit Bormann</p><br /><br /><br /> http://www.autismus-suedost-niedersachsen.de</td></tr><tr class="standorte" id="
+
+
+328" onclick="toggleInfo(marker_328);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismusambulanz Holzminden</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Pipping 2 <br /> 
+                37603 Holzminden</td><td><p>Träger: Paritätische Lebenshilfe Schaumburg-Westerbergland GmbH</p><br /><br /><a href="mailto:s.soeffge-weber@plsw.de">s.soeffge-weber@plsw.de</a><br /> http://www.plsw.de</td></tr><tr class="standorte" id="
+
+
+128" onclick="toggleInfo(marker_128);" class="even"><td><span>Wohnstätten</span></td><td><strong>Haus Obermühle</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Johann-Todt-Straße 5 <br /> 
+                37671 Höxter / Bödexen</td><td>14 Wohneinheiten
+Träger:<br />Haus im Wind<br />Inhaberin: Beate Lunburg<br />Baarsen 60<br />31812 Bad Pyrmont<br />Telefon 05285 / 654<br />Fax 05285 / 940 40<br />E-Mail: info@hausimwind.de, Internet: www.hausimwind.de<br /><br /><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+252" onclick="toggleInfo(marker_252);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz Braunschweig der Arbeitsgemeinschaft Lebenshilfen Ostniedersachsen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Hasenwinkel 3 <br /> 
+                38114 Braunschweig</td><td><p>Leitung: Frau Janette Michehl</p><br /><br /><a href="mailto:autismusambulanz@lebenshilfe-braunschweig.de">autismusambulanz@lebenshilfe-braunschweig.de</a><br /></td></tr><tr class="standorte" id="
+
+
+262" onclick="toggleInfo(marker_262);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Lebenshilfe Braunschweig gGmbH, Beratungsstelle</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td>Fabrikstraße 1F <br /> 
+                38122 Braunschweig</td><td><p>Beratungsstelle, u.a. mit stationären und ambulanten Wohnformen, Arbeitsangeboten, Schulbegleitung, Gesprächskreisen und Selbsthilfegruppen</p><br /><br /><a href="mailto:info@lebenshilfe-braunschweig.de">info@lebenshilfe-braunschweig.de</a><br /> http://www.lebenshilfe-braunschweig.de</td></tr><tr class="standorte" id="
+
+
+268" onclick="toggleInfo(marker_268);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Lavie gGmbH, Regionaler Rehabilitationsdienst</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td>Fallersleber Straße 12 <br /> 
+                38154 Königslutter</td><td>Angebote:<br />Medizinische und berufliche Reha, Jugendprojekte, Berufsvorbereitung, Ausbildung, Tagesstätte <br /><br /><a href="mailto:lavie@t-online.de">lavie@t-online.de</a><br /> http://www.lavie-reha.de</td></tr><tr class="standorte" id="
+
+
+256" onclick="toggleInfo(marker_256);" class="even"><td><span>Wohnstätten</span></td><td><strong>Autismusspezifisches Wohnangebot</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td><br /> 
+                38173 Sickte-Neuerkerode</td><td>14 Plätze für junge Erwachsene ab 18 Jahren mit einem Entwicklungsniveau, das einen Übergang in selbstbestimmte Wohnformen und eine Integration in die Arbeitswelt bei entsprechender Förderung zulässt.
+Aufnahmeberatung: Jane Rinne
+<div class="indent"><div class="indent">Träger:<br />Evangelische Stiftung Neuerkerode<br />Kastanienweg 3, 38173 Sickte-Neuerkerode<br />Tel. 05305 / 2010, Fax 05305 / 20 11 67<br />E-Mail: <link info@neuerkerode.de>info@neuerkerode.de</link>, Internet: <link http://www.neuerkerode.de>www.neuerkerode.de</link></div></div><br /><br /><a href="mailto:janne.rinne@neuerkerode.de">janne.rinne@neuerkerode.de</a><br /> http://www.neuerkerode.de</td></tr><tr class="standorte" id="
+
+
+270" onclick="toggleInfo(marker_270);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Evangelische Stiftung Neuerkerode</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td>Kastanienweg 3 <br /> 
+                38173 Sickte-Neuerkerode</td><td>Angebote:<br />Wohnen, Ambulante Begleitung, Arbeit u. Beschäftigung, Kunstwerkstatt Villa Luise, Bildung, Bürgervertretung, Freizeit, Urlaub und Freizeiten, Gesundheitsdienste, Familienentlastender Dienst usw. <br /><br /><a href="mailto:direktion@neuerkerode.de">direktion@neuerkerode.de</a><br /> http://www.neuerkerode.de</td></tr><tr class="standorte" id="
+
+
+292" onclick="toggleInfo(marker_292);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz Salzgitter der Arbeitsgemeinschaft Lebenshilfen Ostniedersachsen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Unter den Eichen 4 <br /> 
+                38239 Salzgitter</td><td><p>Leitung: Frau Janette Michehl</p><br /><br /><a href="mailto:autismusambulanz@lebenshilfe-braunschweig.de">autismusambulanz@lebenshilfe-braunschweig.de</a><br /></td></tr><tr class="standorte" id="
+
+
+125" onclick="toggleInfo(marker_125);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Anlaufstelle Helmstedt des Autismus-Therapie- und Beratungszentrum Wolfsburg</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Kleiner Wall 1 <br /> 
+                38350 Helmstedt</td><td>Anlaufstelle Helmstedt <br /><br /><a href="mailto:autismus-helmstedt@autismus-wolfsburg.de">autismus-helmstedt@autismus-wolfsburg.de</a><br /></td></tr><tr class="standorte" id="
+
+
+114" onclick="toggleInfo(marker_114);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Wolfsburg und Umgebung e.V.</strong><br /><span>Regionalverband</span><br /> Niedersachsen </td><td>An der Grandkuhle 5 <br /> 
+                38442 Wolfsburg</td><td>Geschäftsführerin: Steffi Hamann <br /><br /><a href="mailto:info@autismus-wolfsburg.de">info@autismus-wolfsburg.de</a><br /> http://www.autismus-wolfsburg.de</td></tr><tr class="standorte" id="
+
+
+124" onclick="toggleInfo(marker_124);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie- und Beratungszentrum Wolfsburg</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>An der Grandkuhle 5 <br /> 
+                38442 Wolfsburg</td><td><br /><br /><a href="mailto:info@autismus-wolfsburg.de">info@autismus-wolfsburg.de</a><br /> http://www.autismus-wolfsburg.de</td></tr><tr class="standorte" id="
+
+
+126" onclick="toggleInfo(marker_126);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Anlaufstelle Gifhorn des Autismus-Therapie- und Beratungszentrum Wolfsburg</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Knickwall 1 <br /> 
+                38518 Gifhorn</td><td><br /><br /><a href="mailto:autismus-gifhorn@autismus-wolfsburg.de">autismus-gifhorn@autismus-wolfsburg.de</a><br /></td></tr><tr class="standorte" id="
+
+
+258" onclick="toggleInfo(marker_258);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Diakonie Himmelsthür, Wohnheim Triangel/Gifhorn</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Gifhorner Straße 39 <br /> 
+                38524 Sassenburg</td><td><p>10 Plätze für erwachsene Menschen mit Kanner-Autismus; Wohnen und Tagesförderung</p><p>Bei Anfragen:</p><p>Sigrid Jahnel (Kundenberatung Diakonie Himmelsthür, Region Nds.-Mitte)<br /> Tel. 0511 / 64 06 08 90, Fax 051 21 / 60 48 84 39<br /> E-Mail: <a href="mailto:Sigrid.Jahnel@dh-himmelsthuer.de">Sigrid.Jahnel@dh-himmelsthuer.de</a></p><p>Internet: www.diakoniehimmelsthuer.de</p><br /><br /><a href="mailto:Sigrid.Jahnel@dh-himmelsthuer.de">Sigrid.Jahnel@dh-himmelsthuer.de</a><br /></td></tr><tr class="standorte" id="
+
+
+332" onclick="toggleInfo(marker_332);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Lebenshilfe Bad Gandersheim-Seesen</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Kampstraße 34 <br /> 
+                38723 Seesen</td><td><br /><br /><a href="mailto:j.truderung@lebenshilfe-seesen.de">j.truderung@lebenshilfe-seesen.de</a><br /> http://www.lebenshilfe-seesen.de</td></tr><tr class="standorte" id="
+
+
+224" onclick="toggleInfo(marker_224);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Nordharz e.V.</strong><br /><span>Regionalverband</span><br /> Sachsen-Anhalt </td><td>Heinrichsweg 4 a <br /> 
+                38889 Blankenburg</td><td><div class="indent">Vorsitzende: Silke Czerwenka</div><br /><br /><a href="mailto:info@autismus-nordharz.de">info@autismus-nordharz.de</a><br /> http://www.autismus-nordharz.de</td></tr><tr class="standorte" id="
+
+
+227" onclick="toggleInfo(marker_227);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismuszentrum Kleine Wege in Blankenburg</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Sachen-Anhalt </td><td>Nordstraße 17 <br /> 
+                38889 Blankenburg</td><td><br /><br /><a href="mailto:blankenburg@kleine-wege.de">blankenburg@kleine-wege.de</a><br /></td></tr><tr class="standorte" id="
+
+
+230" onclick="toggleInfo(marker_230);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Jugendhaus Schloß Langenstein</strong><br /><span>Wohnstätten</span><br /> Sachsen-Anhalt </td><td>Bahnhofstraße 14 b <br /> 
+                38895 Langenstein / bei Halberstadt</td><td>Jugendhaus
+12 Plätze in zwei Wohngruppen für Kinder und Jugendliche bis 17 Jahre, mit schulischer und therapeutischer Förderung <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+231" onclick="toggleInfo(marker_231);" class="even"><td><span>Wohnstätten</span></td><td><strong>Wohnheim Schloß Langenstein</strong><br /><span>Wohnstätten</span><br /> Sachsen-Anhalt </td><td>Bahnhofstraße 14 b <br /> 
+                38895 Langenstein / bei Halberstadt</td><td>Wohnheim für autistische Erwachsene
+12 Plätze in zwei Wohngruppen mit ergotherapeutischem Beschäftigungsbereich <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+232" onclick="toggleInfo(marker_232);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Haus &quot;Am Goldbach&quot;</strong><br /><span>Wohnstätten</span><br /> Sachsen-Anhalt </td><td>Bahnhofstraße 5 a <br /> 
+                38895 Langenstein</td><td>Wohneinrichtungen für autistische Kinder, Jugendliche und Erwachsene
+2 Wohngruppen für Kinder und Jugendliche sowie 8 Einzelzimmer in Appartementform für Erwachsene. <br /><br /><a href="mailto:brueser@int-bsw.de">brueser@int-bsw.de</a><br /></td></tr><tr class="standorte" id="
+
+
+225" onclick="toggleInfo(marker_225);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Förder- und Therapiezentrum &quot;Leuchtturm&quot;</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Sachsen-Anhalt </td><td>Burchardstraße 21 <br /> 
+                39114 Magdeburg</td><td><br /><br /><a href="mailto:leuchtturm@autismus-magdeburg.de">leuchtturm@autismus-magdeburg.de</a><br /> http://www.autismus-magdeburg.de</td></tr><tr class="standorte" id="
+
+
+226" onclick="toggleInfo(marker_226);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Tagesgruppe für Kinder mit autistischen Verhaltensweisen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Sachsen-Anhalt </td><td>Burchardstraße 5 <br /> 
+                39114 Magdeburg</td><td><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+223" onclick="toggleInfo(marker_223);" class="even"><td><span>Regionalverband</span></td><td><strong>Autismus Magdeburg e.V.</strong><br /><span>Regionalverband</span><br /> Sachsen-Anhalt </td><td>Hamburger Straße 11 <br /> 
+                39124 Magdeburg</td><td><p>Vorsitzende: Martina Siesing</p><p>Geschäftsstelle: Gertraud Schlaszus</p><br /><br /><a href="mailto:kontakt@autismus-magdeburg.de">kontakt@autismus-magdeburg.de</a><br /> http://www.autismus-magdeburg.de</td></tr><tr class="standorte" id="
+
+
+160" onclick="toggleInfo(marker_160);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Nebenstelle Düsseldorf des Autismus-Therapie-Zentrum Rhein-Wupper gGmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Grafenberger Allee 368 <br /> 
+                40235 Düsseldorf</td><td><br /><br /><a href="mailto:duesseldorf@atz-rhein-wupper.de">duesseldorf@atz-rhein-wupper.de</a><br /></td></tr><tr class="standorte" id="
+
+
+184" onclick="toggleInfo(marker_184);" class="even"><td><span>Wohnstätten</span></td><td><strong>Haus Burberg e.V.</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Dorper Weg 28 <br /> 
+                40629 Düsseldorf</td><td>16 Plätze, Aufnahmealter 18 Jahre
+Vorsitzende: Dorothee Daun, Gillicherstraße 7, 42699 Solingen
+Träger: autismus Rhein-Wupper e.V. <br /><br /><a href="mailto:haus-burberg@t-online.de">haus-burberg@t-online.de</a><br /> http://www.haus-burberg.de</td></tr><tr class="standorte" id="
+
+
+142" onclick="toggleInfo(marker_142);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Rhein-Wupper e.V.</strong><br /><span>Regionalverband</span><br /> Nordrhein-Westfalen </td><td>Gerresheimer Straße 20 b <br /> 
+                40721 Hilden</td><td><br /><br /><a href="mailto:info@autismus-rhein-wupper.de">info@autismus-rhein-wupper.de</a><br /> http://www.autismus-rhein-wupper.de</td></tr><tr class="standorte" id="
+
+
+159" onclick="toggleInfo(marker_159);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Rhein-Wupper gGmbH  -  Hauptgeschäftsstelle</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Gerresheimer Straße 20 b <br /> 
+                40721 Hilden</td><td><br /><br /><a href="http://info@autismus-rhein-wupper.de;" target="info@atz-rhein-wupper.de">info@autismus-rhein-wupper.de; info@atz-rhein-wupper.de</a><br /> http://www.autismus-rhein-wupper.de</td></tr><tr class="standorte" id="
+
+
+193" onclick="toggleInfo(marker_193);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Daheim, Lebensgemeinschaft autistischer Menschen e.V.</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Schlaaweg 64 <br /> 
+                41169 Mönchengladbach</td><td>Aufnahmealter: ab 18 Jahre
+12 vollstationäre Plätze, betreutes Wohnen <br /><br /><a href="mailto:info@autismus-moenchengladbach.de">info@autismus-moenchengladbach.de</a><br /> http://www.autismus-moenchengladbach.de</td></tr><tr class="standorte" id="
+
+
+294" onclick="toggleInfo(marker_294);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Zweigstelle Kaarst der Autismus-Therapie-Ambulanz Niederrhein</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Bruchweg 24 <br /> 
+                41564 Kaarst</td><td>Kontakt über die Hauptstelle in Kempen <br /><br /><a href="mailto:ambulanz@autismus-online.de">ambulanz@autismus-online.de</a><br /> http://www.autismus-online.de</td></tr><tr class="standorte" id="
+
+
+162" onclick="toggleInfo(marker_162);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Nebenstelle Wuppertal / Remscheid des Autismus-Therapie-Zentrum Rhein-Wupper gGmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Arrenberg´sche Höfe 6 <br /> 
+                42117 Wuppertal</td><td><br /><br /><a href="mailto:wuppertal@atz-rhein-wupper.de">wuppertal@atz-rhein-wupper.de</a><br /></td></tr><tr class="standorte" id="
+
+
+148" onclick="toggleInfo(marker_148);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Wuppertal / Bergisches Land e.V.   Rv zur Förderung von Kindern, Jugendlichen und Erwachsenen mit Autismus</strong><br /><span>Regionalverband</span><br /> Nordrhein-Westfalen </td><td>Ibachstraße 1 <br /> 
+                42283 Wuppertal</td><td><br /><br /><a href="mailto:autismuswuppertal@t-online.de">autismuswuppertal@t-online.de</a><br /> http://www.autismus-wuppertal.de</td></tr><tr class="standorte" id="
+
+
+174" onclick="toggleInfo(marker_174);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Ambulanz und Beratungsstelle Wuppertal gGmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Friedrich-Engels-Allee 432 <br /> 
+                42283 Wuppertal</td><td><br /><br /><a href="mailto:info@autismusambulanz.de">info@autismusambulanz.de</a><br /> http://www.autismusambulanz.de</td></tr><tr class="standorte" id="
+
+
+196" onclick="toggleInfo(marker_196);" class="even"><td><span>Wohnstätten</span></td><td><strong>Autismus Wuppertal  -  Pflege- und Lebensgemeinschaft Gemeinnützige und mildtätige GmbH</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Werderstraße 72 <br /> 
+                42329 Wuppertal</td><td><p>Ansprechpartner: Herr Jörg Agricola</p><p>3 Wohnhäuser inkl. Therapiegebäude, 45 vollstationäre Plätze<br /> Aufnahmealter: ab 18 Jahre</p><p>Gesellschafter: Autismus Wuppertal/Düsseldorf-Bergisches Land e.V.</p><br /><br /><a href="mailto:verwaltung@plg-wuppertal.de">verwaltung@plg-wuppertal.de</a><br /> http://www.plg-wuppertal.de</td></tr><tr class="standorte" id="
+
+
+197" onclick="toggleInfo(marker_197);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Autismus Wuppertal  -  Pflege- und Lebensgemeinschaft Gemeinnützige und mildtätige GmbH</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Werderstraße 72 <br /> 
+                42329 Wuppertal</td><td><p>Ambulant betreutes Wohnen</p><p>Ansprechpartnerin: Frau Manuela Reininghaus</p><br /><br /><a href="mailto:m.reininghaus@plg-wuppertal.de">m.reininghaus@plg-wuppertal.de</a><br /> http://www.plg-wuppertal.de</td></tr><tr class="standorte" id="
+
+
+194" onclick="toggleInfo(marker_194);" class="even"><td><span>Wohnstätten</span></td><td><strong>Pflege- und Lebensgemeinschaft gGmbH Wuppertal - Haus Bucken</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Nordrather Straße 41 <br /> 
+                42553 Velbert</td><td><p>Ansprechpartner: Frau Martina Fuhrmann / Frau Kathrin Hußmann</p><br /><br /><a href="mailto:m.fuhrmann@plg-wuppertal.de" target="/" class="k.hussmann@plg-wuppertal.de">m.fuhrmann@plg-wuppertal.de / k.hussmann@plg-wuppertal.de</a><br /> http://www.plg-wuppertal.de</td></tr><tr class="standorte" id="
+
+
+357" onclick="toggleInfo(marker_357);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Pflege- und Lebensgemeinschaft gGmbH- Ambulant betreutes Wohnen -  Haus Solingen</strong><br /><span>Wohnstätten</span><br /></td><td>Sieglindenweg 9 <br /> 
+                42653 Solingen</td><td><br /><br /><a href="mailto:i.hornicki@plg-wuppertal.de">i.hornicki@plg-wuppertal.de</a><br /> http://www.plg-wuppertal.de</td></tr><tr class="standorte" id="
+
+
+358" onclick="toggleInfo(marker_358);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Pflege- und Lebensgemeinschaft gGmbH Ambulante Pflege</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Sieglindenweg 9 <br /> 
+                42653 Solingen</td><td><br /><br /><a href="mailto:pflegedienst@plg-wuppertal.de">pflegedienst@plg-wuppertal.de</a><br /> http://www.plg-wuppertal.de</td></tr><tr class="standorte" id="
+
+
+161" onclick="toggleInfo(marker_161);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Nebenstelle Solingen des Autismus-Therapie-Zentrum Rhein-Wupper gGmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Weyerstraße 245 <br /> 
+                42719 Solingen</td><td><br /><br /><a href="mailto:solingen@atz-rhein-wupper.de">solingen@atz-rhein-wupper.de</a><br /></td></tr><tr class="standorte" id="
+
+
+180" onclick="toggleInfo(marker_180);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autark Rhein-Wupper GmbH</strong><br /><span>Sonstige Einrichtungen</span><br /> Nordrhein-Westfalen </td><td>Weyerstraße 245 <br /> 
+                42719 Solingen</td><td><br /><br /><a href="mailto:info@autark-rhein-wupper.de">info@autark-rhein-wupper.de</a><br /> http://www.autark-rhein-wupper.de</td></tr><tr class="standorte" id="
+
+
+181" onclick="toggleInfo(marker_181);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismus Wohnverbund Rhein-Wupper GmbH</strong><br /><span>Sonstige Einrichtungen</span><br /> Nordrhein-Westfalen </td><td>Weyerstr. 245 <br /> 
+                42719 Solingen</td><td><br /><br /><a href="mailto:info@autismus-wohnverbund.de">info@autismus-wohnverbund.de</a><br /> http://www.autismus-wohnverbund.de</td></tr><tr class="standorte" id="
+
+
+141" onclick="toggleInfo(marker_141);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Dortmund und Umgebung e.V.  Regionalverband zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Nordrhein-Westfalen </td><td>Heiliger Weg 58 c <br /> 
+                44135 Dortmund</td><td>Vorsitzender: Bernhard Lammers <br /><br /><a href="mailto:vorstand@atz-do.de">vorstand@atz-do.de</a><br /> http://www.autismus-dortmund.de</td></tr><tr class="standorte" id="
+
+
+156" onclick="toggleInfo(marker_156);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Dortmund und Hagen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Heiliger Weg 58 c <br /> 
+                44135 Dortmund</td><td><br /><br /><a href="mailto:info@atz-do.de">info@atz-do.de</a><br /> http://www.autismus-dortmund.de</td></tr><tr class="standorte" id="
+
+
+345" onclick="toggleInfo(marker_345);" class="even"><td><span>Wohnstätten</span></td><td><strong>Ambulant Betreutes Wohnen für Menschen mit Autismus in Dortmund</strong><br /><span>Wohnstätten</span><br /></td><td>Paderborner Straße 26 <br /> 
+                44143 Dortmund</td><td><br /><br /><a href="mailto:info@abw-do.de">info@abw-do.de</a><br /></td></tr><tr class="standorte" id="
+
+
+361" onclick="toggleInfo(marker_361);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>autismus Dortmund und Umgebung e.V. - Ambulant Betreutes Wohnen für Menschen mit Autismus</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Paderborner Straße 26 <br /> 
+                44143 Dortmund</td><td><br /><br /><a href="mailto:info@abw-do.de">info@abw-do.de</a><br /> http://www.autismus-dortmund.de</td></tr><tr class="standorte" id="
+
+
+158" onclick="toggleInfo(marker_158);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Zentrum-Essen gemeinnützige GmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Annastraße 58-64 <br /> 
+                45130 Essen</td><td><br /><br /><a href="mailto:info@a-z-essen.de">info@a-z-essen.de</a><br /> http://www.a-z-essen.de</td></tr><tr class="standorte" id="
+
+
+145" onclick="toggleInfo(marker_145);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Mülheim-Duisburg-Wesel e.V.</strong><br /><span>Regionalverband</span><br /> Nordrhein-Westfalen </td><td>Geschäftsstelle: Kassenberg 32 <br /> 
+                45479 Mülheim-Broich</td><td><br /><br /><a href="mailto:info@autismus-muelheim.de">info@autismus-muelheim.de</a><br /> http://www.autismus-muelheim.de</td></tr><tr class="standorte" id="
+
+
+168" onclick="toggleInfo(marker_168);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentren Mülheim, Duisburg, Wesel</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Kassenberg 32 <br /> 
+                45479 Mülheim-Broich</td><td><br /><br /><a href="mailto:info@autismus-muelheim.de">info@autismus-muelheim.de</a><br /> http://www.autismus-muelheim.de</td></tr><tr class="standorte" id="
+
+
+305" onclick="toggleInfo(marker_305);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Zentrum Herten gemeinnützige GmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Ewaldstraße 34 <br /> 
+                45699 Herten</td><td>Therapeutische Leitung:<br />Dipl. Pädagoge Carsten Spelberg<br />Dipl. Rehabilitationspädagogin Mareike Hermann <br /><br /><a href="mailto:info@autismus-zentrum-herten.de">info@autismus-zentrum-herten.de</a><br /> http://www.autismus-zentrum-herten.de</td></tr><tr class="standorte" id="
+
+
+140" onclick="toggleInfo(marker_140);" class="even"><td><span>Regionalverband</span></td><td><strong>hilfe für das autistische kind - Vereinigung zur Förderung autistischer Menschen, Regionalverband Westliches Ruhrgebiet e.V.</strong><br /><span>Regionalverband</span><br /> Nordrhein-Westfalen </td><td>Taeglichsbeckstraße 1-3 <br /> 
+                46240 Bottrop</td><td><br /><br /><a href="mailto:info@a-z-essen.de">info@a-z-essen.de</a><br /> http://www.a-z-essen.de</td></tr><tr class="standorte" id="
+
+
+155" onclick="toggleInfo(marker_155);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Zentrum-Bottrop gemeinnützige GmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Taeglichsbeckstraße 1-3 <br /> 
+                46240 Bottrop</td><td><br /><br /><a href="mailto:info@a-z-b.de">info@a-z-b.de</a><br /> http://www.autismus-zentrum-bottrop.de</td></tr><tr class="standorte" id="
+
+
+351" onclick="toggleInfo(marker_351);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Zentrum-Dorsten gemeinnützige GmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Martin-Luther-Str. 1 <br /> 
+                46284 Dorsten</td><td><br /><br /><a href="mailto:info@a-z-dorsten.de">info@a-z-dorsten.de</a><br /> http://www.a-z-dorsten.de</td></tr><tr class="standorte" id="
+
+
+280" onclick="toggleInfo(marker_280);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>DRK - Soziale Arbeit und Bildung gGmbH, Autismusambulanz, Familienunterstützender Dienst für Menschen mit Autismus</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Röntgenstraße 6 <br /> 
+                46325 Borken</td><td><p>Fachleiter: Ralf Brüchmann</p><br /><br /><a href="mailto:autismusambulanz@kv-borken.drk.de">autismusambulanz@kv-borken.drk.de</a><br /></td></tr><tr class="standorte" id="
+
+
+281" onclick="toggleInfo(marker_281);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Ambulant Betreutes Wohnen für Menschen mit Autismus</strong><br /><span>Sonstige Einrichtungen</span><br /> Nordrhein-Westfalen </td><td>Röntgenstraße 6 <br /> 
+                46325 Borken</td><td><br /><br /><a href="mailto:r.bruechmann@kv-borken.drk.de">r.bruechmann@kv-borken.drk.de</a><br /></td></tr><tr class="standorte" id="
+
+
+170" onclick="toggleInfo(marker_170);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Außenstelle Wesel des Autismus-Therapiezentren Mülheim, Duisburg, Wesel</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Birkenstraße 19 <br /> 
+                46485 Wesel</td><td>Kontakt über das Autismus-Therapiezentren Mülheim <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+169" onclick="toggleInfo(marker_169);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Außenstelle Duisburg des Autismus-Therapiezentren Mülheim, Duisburg, Wesel</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Duissernplatz 15 <br /> 
+                47051 Duisburg</td><td>Kontakt über das Autismus-Therapiezentren Mülheim <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+295" onclick="toggleInfo(marker_295);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Zweigstelle Kalkar der Autismus-Therapie-Ambulanz Niederrhein</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Gocher Straße 15 <br /> 
+                47546 Kalkar</td><td>Kontakt nur über die Hauptstelle in Kempen. <br /><br /><a href="mailto:ambulanz@autismus-online.de">ambulanz@autismus-online.de</a><br /> http://www.autismus-online.de</td></tr><tr class="standorte" id="
+
+
+143" onclick="toggleInfo(marker_143);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Niederrhein e.V.   Rv zur Förderung autistischer Menschen</strong><br /><span>Regionalverband</span><br /> Nordrhein-Westfalen </td><td>Vorster Straße 8 <br /> 
+                47906 Kempen</td><td><br /><br /><a href="mailto:verein@autismus-online.de">verein@autismus-online.de</a><br /> http://www.autismus-online.de</td></tr><tr class="standorte" id="
+
+
+163" onclick="toggleInfo(marker_163);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Ambulanz Niederrhein</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Vorster Straße 8 <br /> 
+                47906 Kempen</td><td>Bürozeiten: montags - donnerstags von 09.00 - 15.00 Uhr <br /><br /><a href="mailto:ambulanz@autismus-online.de">ambulanz@autismus-online.de</a><br /> http://www.autismus-online.de</td></tr><tr class="standorte" id="
+
+
+286" onclick="toggleInfo(marker_286);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Therapieinstitut mitte</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Servatiiplatz 3 <br /> 
+                48143 Münster</td><td><p><strong>Angebot: Einzeltherapie, gruppentherapeutische Angebote, Beratung für Familien und Bezugssysteme, Elterncoaching, Marte Meo, Fortbildungsangebote</strong></p><br /><br /><a href="mailto:kontakt@therapieinstitut-mitte.de">kontakt@therapieinstitut-mitte.de</a><br /> http://www.therapieinstitut-mitte.de</td></tr><tr class="standorte" id="
+
+
+179" onclick="toggleInfo(marker_179);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum, DRK Kreisverband Münster</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Zumsandestraße 25-27 <br /> 
+                48145 Münster</td><td><br /><br /><a href="mailto:autismus@drk-muenster.de">autismus@drk-muenster.de</a><br /> http://www.drk-muenster.de</td></tr><tr class="standorte" id="
+
+
+146" onclick="toggleInfo(marker_146);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus RV Münster und Münsterland e.V.   Vereinigung zur Unterstützung autistischer Menschen</strong><br /><span>Regionalverband</span><br /> Nordrhein-Westfalen </td><td>Dahlweg 112 (Im Paritätischen Zentrum) <br /> 
+                48153 Münster</td><td><br /><br /><br /> http://www.autismus-muenster.de</td></tr><tr class="standorte" id="
+
+
+362" onclick="toggleInfo(marker_362);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum, DRK-Kreisverband Münster - Nebenstelle Dülmen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Lüdinghauser Straße 74 <br /> 
+                48249 Dülmen</td><td><br /><br /><a href="mailto:autismus@drk-muenster.de">autismus@drk-muenster.de</a><br /> http://www.drk-muenster.de</td></tr><tr class="standorte" id="
+
+
+271" onclick="toggleInfo(marker_271);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>DRK-Kreisverband Grafschaft Bentheim, ED Entlastende Dienste / DRK, Autismusambulanz Nordhorn</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Karderieweg 2 <br /> 
+                48527 Nordhorn</td><td><br /><br /><a href="mailto:autismusambulanz-nordhorn@ed-drk.de">autismusambulanz-nordhorn@ed-drk.de</a><br /> http://www.ed-drk.de</td></tr><tr class="standorte" id="
+
+
+315" onclick="toggleInfo(marker_315);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Ambulanz Nordhorn</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Ootmarsumer Weg 110 <br /> 
+                48527 Nordhorn</td><td><br /><br /><a href="mailto:autismusambulanz@lebenshilfe-nordhorn.de">autismusambulanz@lebenshilfe-nordhorn.de</a><br /></td></tr><tr class="standorte" id="
+
+
+318" onclick="toggleInfo(marker_318);" class="even"><td><span>Wohnstätten</span></td><td><strong>Intensiv-Wohngruppe für Jugendliche mit Asperger-Syndrom</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Roggenkamp 1 <br /> 
+                48739 Legden</td><td><p>Die Intensiv-Wohngruppe für Jugendliche mit Asperger-Syndrom ist auf die speziellen Bedürfnisse von Jungen ausgerichtet, die nicht mehr in ihrem Elternhaus leben können und eine intensive Betreuung benötigen.</p><p>Die Intensiv-Wohngruppe bietet Platz für sieben Jungen.</p><p>Aufnahmealter: ab 12 Jahren</p><p>Anzahl der Plätze: 7, jeweils in Einzelzimmern</p><p>Kontakt über: Rotes Kreuz im Kreis Borken, Ralf Brüchmann, Röntgenstraße 6, 46325 Borken</p><br /><br /><a href="mailto:autismusambulanz@drkborken.de">autismusambulanz@drkborken.de</a><br /> http://www.autismus.drkborken.de</td></tr><tr class="standorte" id="
+
+
+112" onclick="toggleInfo(marker_112);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Osnabrück e.V.  RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Niedersachsen </td><td>Goethering 22-24 <br /> 
+                49074 Osnabrück</td><td><p>Vorsitzender: Larsen Trentmann</p><br /><br /><a href="mailto:verein@autismus-os.de">verein@autismus-os.de</a><br /> http://www.autismus-os.de</td></tr><tr class="standorte" id="
+
+
+123" onclick="toggleInfo(marker_123);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Goethering 22-24 <br /> 
+                49074 Osnabrück</td><td><p><a href="https://www.os-hho.de/ambulante-angebote/autismus-therapiezentrum-osnabrueck/">https://www.os-hho.de/ambulante-angebote/autismus-therapiezentrum-osnabrueck/</a></p><br /><br /><a href="mailto:atz@os-hho.de">atz@os-hho.de</a><br /> http://https://www.os-hho.de/ambulante-angebote/autismus-therapiezentrum-osnabrueck/</td></tr><tr class="standorte" id="
+
+
+257" onclick="toggleInfo(marker_257);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Ambulante Assistenz der Heilpädagogischen Hilfe Osnabrück, Wohnen gGmbH</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Industriestraße 17 <br /> 
+                49082 Osnabrück</td><td>Unterstützung beim Wohnen für Menschen mit Autismusspektrumsstörungen, besonders auch für Menschen mit Asperger-Syndrom. Die betreuten Einzelpersonen oder auch Wohngemeinschaften leben in angemieteten Wohnungen und erhalten dort ihre Assistenz entsprechend ihrers individuellen Bedarfs. Das Angebot richtet sich an Menschen in Stadt und Landkreis Osnabrück.
+Leitung: Petra Herkenhoff-Koopmann, Tel. 05424 / 21 50 42
+Anfragen an: Margret Gödecker, Tel. 0541 / 99 91 - 0, E-Mail: m.goedecker@os-hho.de <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+272" onclick="toggleInfo(marker_272);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Heilpädagogische Hilfe Osnabrück</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td>Industriestraße 7 <br /> 
+                49082 Osnabrück</td><td><br /><br /><a href="mailto:info@os-hho.de">info@os-hho.de</a><br /> http://www.os-hho.de</td></tr><tr class="standorte" id="
+
+
+135" onclick="toggleInfo(marker_135);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Haus Holterberg</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>Am Lärchenhang 2 <br /> 
+                49176 Hilter</td><td>24 Plätze für erwachsene Frauen und Männer mit hohem Unterstützungsbedarf.<br />Die Bewohner gehen tagsüber einer Beschäftigung außerhalb der Wohngruppen nach.<br />Eine Außenstelle der Werkstatt befindet sich auf dem Gelände. Das Angebot richtet sich vornehmlich an Personen aus dem Großraum Osnabrück.
+Leitung: Vera Prause
+Anfragen an:<br />Margret Gödecker, Tel. 0541 / 99 91-0<br />E-Mail: <link m.goedecker@os-hho.de>m.goedecker@os-hho.de</link>
+Träger:<br />Heilpädagogische Hilfe Osnabrück Wohnen gGmbH<br />Industriestraße 17, 49082 Osnabrück<br />Te. 0541 / 999 10, Internet: <link http://www.os-hho.de>www.os-hho.de</link><br /><br /><a href="mailto:v.prause@os-hho.de">v.prause@os-hho.de</a><br /> http://www.os-hho.de</td></tr><tr class="standorte" id="
+
+
+251" onclick="toggleInfo(marker_251);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Außenstelle Diepholz des Therapiezentrums Bersenbrück</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Vossen Reitweg 9 <br /> 
+                49356 Diepholz</td><td><br /><br /><a href="mailto:therapiezentrum@hph-bsb.de">therapiezentrum@hph-bsb.de</a><br /> http://www.hph-bsb.de</td></tr><tr class="standorte" id="
+
+
+275" onclick="toggleInfo(marker_275);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Andreaswerk e.V.</strong><br /><span>Sonstige Einrichtungen</span><br /> Niedersachsen </td><td>Landwehrstraße 7 <br /> 
+                49377 Vechta</td><td><div class="indent">Ansprechpartner: Christoph Bräuer</div><br /><br /><a href="mailto:info@andreaswerk.de">info@andreaswerk.de</a><br /> http://www.andreaswerk.de</td></tr><tr class="standorte" id="
+
+
+176" onclick="toggleInfo(marker_176);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz des DRK Kreisverbands Tecklenburger Land e.V.</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Groner Allee 27 <br /> 
+                49477 Ibbenbüren</td><td><br /><br /><a href="mailto:aaleitung@drk-te.de">aaleitung@drk-te.de</a><br /> http://www.drk-aa-te.de</td></tr><tr class="standorte" id="
+
+
+177" onclick="toggleInfo(marker_177);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>DRK Bürgerservice Tecklenburger Land GmbH</strong><br /><span>Sonstige Einrichtungen</span><br /> Nordrhein-Westfalen </td><td>Bachstraße 17 <br /> 
+                49477 Ibbenbüren</td><td>Ambulant Unterstütztes Wohnen für Menschen mit geistiger Behinderung und Autismus
+Leiterin: Kerstin Schweigstill <br /><br /><a href="mailto:info@drk-te.de">info@drk-te.de</a><br /> http://www. drk-buergerservice-te.de</td></tr><tr class="standorte" id="
+
+
+250" onclick="toggleInfo(marker_250);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Therapiezentrum Schwerpunkt Autismus HpH Bersenbrück gGmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Am Holzplatz 2 <br /> 
+                49593 Bersenbrück</td><td><br /><br /><a href="mailto:therapiezentrum@hph-bsb.de">therapiezentrum@hph-bsb.de</a><br /> http://www.hph-bsb.de</td></tr><tr class="standorte" id="
+
+
+130" onclick="toggleInfo(marker_130);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Haus an der Möhringsburg</strong><br /><span>Wohnstätten</span><br /> Niedersachsen </td><td>An der Möhringsburg 4 <br /> 
+                49635 Badbergen</td><td><p>Ansprechpartner: Frau Anja Duong-Grönheim</p><p>Träger: Heilpädagogische Hilfe Bersenbrück gGmbH<br /> Robert-Bosch-Straße 3-7, 49593 Bersenbrück<br /> Tel. 05439 / 944 90<br /> E-Mail: <a href="mailto:info@hph-bsb.de">info@hph-bsb.de</a> Internet: <a href="http://www.hph-bsb.de">www.hph-bsb.de</a></p><p>Wohneinrichtung speziell für Menschen mit hohem Hilfebedar (Schwerpunkt Autismus)</p><p>18 Plätze (3 Wohngruppen mit je 6 Plätzen), Alterstruktur 21-50 Jahre</p><br /><br /><a href="mailto:moehringsburg@hph-bsb.de">moehringsburg@hph-bsb.de</a><br /> http://www.hph-bsb.de</td></tr><tr class="standorte" id="
+
+
+348" onclick="toggleInfo(marker_348);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>MoPäD Süd – Mobile pädagogische Dienste für erwachsene Menschen mit einer Behinderung aus dem autistischen Spektrum</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Widukindstraße 1a <br /> 
+                49716 Meppen</td><td><br /><br /><a href="mailto:info@autismus-weser-ems.de">info@autismus-weser-ems.de</a><br /> http://www.autismus-weser-ems.de</td></tr><tr class="standorte" id="
+
+
+111" onclick="toggleInfo(marker_111);" class="odd"><td><span>Regionalverband</span></td><td><strong>Autismus Regionalverband Weser-Ems e.V. / Autismus-Therapie Weser-Ems gGmbH</strong><br /><span>Regionalverband</span><br /> Niedersachsen </td><td>Hüttenstraße 7-9 <br /> 
+                49716 Meppen</td><td><p>Geschäftsführerin / Gesamttherapeutische Leiterin: Dipl. Psych. Martina Steinhaus</p><br /><br /><a href="mailto:info@autismus-weser-ems.de">info@autismus-weser-ems.de</a><br /> http://www.autismus-weser-ems.de</td></tr><tr class="standorte" id="
+
+
+120" onclick="toggleInfo(marker_120);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Niedersachsen </td><td>Hüttenstraße 9 <br /> 
+                49716 Meppen</td><td><br /><br /><a href="mailto:info@autismus-weser-ems.de">info@autismus-weser-ems.de</a><br /> http://www.autismus-weser-ems.de</td></tr><tr class="standorte" id="
+
+
+370" onclick="toggleInfo(marker_370);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>DRK-Kreisverband Grafschaft Bentheim, ED Entlastende Dienste / DRK, Autismusambulanz Lingen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Burgstraße 15 <br /> 
+                49808 Lingen</td><td><br /><br /><a href="mailto:autismusambulanz-lingen@ed-drk.de">autismusambulanz-lingen@ed-drk.de</a><br /> http://www.ed-drk.de</td></tr><tr class="standorte" id="
+
+
+333" onclick="toggleInfo(marker_333);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Flex-Fernschule NRW Stiftung Die Gute Hand</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Kasinostraße 5 <br /> 
+                50676 Köln</td><td><p>Einrichtungsleitung: Frau Sonja Bradl</p><br /><br /><a href="mailto:nrw@flex-fernschule.de">nrw@flex-fernschule.de</a><br /></td></tr><tr class="standorte" id="
+
+
+352" onclick="toggleInfo(marker_352);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Ambulante Erziehungshilfen/Fachliche Schulbegleitung/ Aufsuchende Autismustherapie - Büro Köln/Frechen</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td><br /> 
+                50676 Köln</td><td><br /><br /><a href="mailto:aeh-koeln@die-gute-hand.de">aeh-koeln@die-gute-hand.de</a><br /></td></tr><tr class="standorte" id="
+
+
+185" onclick="toggleInfo(marker_185);" class="even"><td><span>Wohnstätten</span></td><td><strong>Haus Hermann-Josef Köln, Stiftung Die Gute Hand</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Kasinostraße 5 <br /> 
+                50676 Köln</td><td><p>Wohneinrichtung für Jugendliche zwischen 14 und 21 Jahren mit atypischem Autismus, Asperger-Syndrom und High-Functioning-Autismus</p><p>Einrichtungsleitung: Herr Lutz Fischer</p><p>Ansprechpartner: Frau Ursula Weyer, Durchwahl 0221 / 921 22 - 12</p><p>E-Mail: hh.aufnahme@die-gute-hand.de</p><p>Internet: www.die-gute-hand.de</p><br /><br /><a href="mailto:hh.aufnahme@die-gute-hand.de">hh.aufnahme@die-gute-hand.de</a><br /></td></tr><tr class="standorte" id="
+
+
+186" onclick="toggleInfo(marker_186);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Wohnverbund Haus Agathaberg</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Krummer Büchel 1 a <br /> 
+                50676 Köln</td><td><p>Ambulant Betreutes Wohnen für erwachsene Menschen mit Asperger-Syndrom und High-Functioning-Autismus</p><p>Ansprechpartner für Aufnahmen: Mechthild Ficus</p><p>Einrichtungleitung: Herr Ingo Vohwinkel</p><p>Krummer Büchel 1a, 50676 Köln, 0221/16816892, Fax: 0221/16816893</p><br /><br /><a href="mailto:ha.aufnahme@die-gute-hand.de">ha.aufnahme@die-gute-hand.de</a><br /> http://www.bewohner-haus-agathaberg.de und www.die-gute-hand.de</td></tr><tr class="standorte" id="
+
+
+164" onclick="toggleInfo(marker_164);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Köln</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Neusser Straße 786 <br /> 
+                50737 Köln</td><td><br /><br /><a href="mailto:info@autismus-koeln.de">info@autismus-koeln.de</a><br /> http://www.autismus-koeln.de</td></tr><tr class="standorte" id="
+
+
+334" onclick="toggleInfo(marker_334);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Zweigstelle Rodenkirchen des Autismus-Therapie-Zentrum Köln</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Maternusplatz 10 <br /> 
+                50996 Köln</td><td><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+283" onclick="toggleInfo(marker_283);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Kinder- und Familienhilfen Michaelshoven gGmbH</strong><br /><span>Sonstige Einrichtungen</span><br /> Nordrhein-Westfalen </td><td>Pfarrer-te-Reh-Straße 2 <br /> 
+                50999 Köln</td><td>PIA-Lernbereich Werkstatt
+Heilpädagogisches und tagesstrukturierendes Förder- und Qualifizierungsangebot <br /><br /><a href="mailto:l.reinders@diakonie-michaelshoven.de">l.reinders@diakonie-michaelshoven.de</a><br /> http://www.diakonie-michaelshoven.de</td></tr><tr class="standorte" id="
+
+
+350" onclick="toggleInfo(marker_350);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Kinder- und Familienhilfen Michaelshoven gGmbH  Team-Autismus-Förderung (TAF) Ambulante aufsuchende Autismus-Förderung (Köln und Umgebung)</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Pfarrer-te-Reh-Str. 2 <br /> 
+                50999 Köln</td><td><br /><br /><a href="mailto:l.reinders@diakonie-michaelshoven.de">l.reinders@diakonie-michaelshoven.de</a><br /> http://www.diakonie-michaelshoven.de</td></tr><tr class="standorte" id="
+
+
+187" onclick="toggleInfo(marker_187);" class="even"><td><span>Wohnstätten</span></td><td><strong>Kinder- und Familienhilfe Michaelshoven gGmbH</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Pfarrer-te-Reh-Straße 2 <br /> 
+                50999 Köln</td><td>Wohnangebote und ambulante Hilfen im Rahmen der Erzieherischen Hilfen und Eingliederungshilfen.
+Zentrale Anfragenbearbeitung
+Ansprechpartnerin: Doreen Markworth <br /><br /><a href="mailto:d.markworth@diakonie-michaelshoven.de">d.markworth@diakonie-michaelshoven.de</a><br /> http://www.diakonie-michaelshoven.de</td></tr><tr class="standorte" id="
+
+
+165" onclick="toggleInfo(marker_165);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Zweigstelle Mülheim des Autismus-Therapie-Zentrum Köln</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Wiener Platz 4 <br /> 
+                51065 Köln-Mülheim</td><td><br /><br /><a href="mailto:sekretariat@autismus-koeln.de">sekretariat@autismus-koeln.de</a><br /></td></tr><tr class="standorte" id="
+
+
+353" onclick="toggleInfo(marker_353);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Ambulante Erziehungshilfen/ Fachliche Schulbegleitung - Büro Leverkusen</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Bergische Landstraße 82 <br /> 
+                51375 Leverkusen</td><td><br /><br /><a href="mailto:aeh-leverkusen@die-gute-hand.de">aeh-leverkusen@die-gute-hand.de</a><br /></td></tr><tr class="standorte" id="
+
+
+191" onclick="toggleInfo(marker_191);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Haus Nazareth Leverkusen, Stiftung Die Gute Hand</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Bergische Landstraße 82 <br /> 
+                51375 Leverkusen</td><td><p>Wohneinrichtung für Kinder und Jugendliche mit atypischem Autismus, Asperger-Syndrom und High-Functioning-Autismus</p><p>Einrichtungsleitung: Frau Barbara Berghoff-Bujacz</p><p>Ansprechpartner: Frau Marga Giesen (Stv. Einrichtungsleitung)</p><br /><br /><a href="mailto:hn.aufnahme@die-gute-hand.de">hn.aufnahme@die-gute-hand.de</a><br /> http://www.die-gute-hand.de</td></tr><tr class="standorte" id="
+
+
+166" onclick="toggleInfo(marker_166);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Zweigstelle Refrath des Autismus-Therapie-Zentrum Köln</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Kippekausen 52 <br /> 
+                51427 Bergisch-Gladbach</td><td><br /><br /><a href="mailto:info@atz-refrath.de">info@atz-refrath.de</a><br /> http://www.atz-refrath.de</td></tr><tr class="standorte" id="
+
+
+276" onclick="toggleInfo(marker_276);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Dianostisch-heilpädagogische Ambulanz</strong><br /><span>Sonstige Einrichtungen</span><br /> Nordrhein-Westfalen </td><td>Hauptstraße 97 <br /> 
+                51465 Bergisch Gladbach</td><td><br /><br /><a href="mailto:ambulanz@die-gute-hand.de">ambulanz@die-gute-hand.de</a><br /></td></tr><tr class="standorte" id="
+
+
+183" onclick="toggleInfo(marker_183);" class="even"><td><span>Wohnstätten</span></td><td><strong>Haus Combüchen</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Combüchen 3 <br /> 
+                51465 Bergisch Gladbach</td><td>Wohneinrichtung mit Therapeutischem Beschäftigungsbedarf für erwachsene autistische Menschen
+16 vollstationäre Plätze
+Träger: autismus Köln/Bonn ev., RV zur Förderung von Menschen mit Autismus <br /><br /><a href="mailto:info@haus-combuechen.de">info@haus-combuechen.de</a><br /></td></tr><tr class="standorte" id="
+
+
+189" onclick="toggleInfo(marker_189);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Heilpädagogisches Kinderdorf Biesfeld, Stiftung Die Gute Hand</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Jahnstraße 31 <br /> 
+                51515 Kürten-Biesfeld</td><td><p>Wohneinrichtung für Kinder und Jugendliche mit atypischem Autismus, Asperger-Syndrom und High-Functioning-Autismus</p><p>Einrichtungsleitung: Frau Petra Beckmann</p><p>Ansprechpartner: Arnold Follmann, Durchwahl 02207 / 708 - 302</p><br /><br /><a href="mailto:hk.aufnahme@die-gute-hand.de">hk.aufnahme@die-gute-hand.de</a><br /> http://www.die-gute-hand.de</td></tr><tr class="standorte" id="
+
+
+190" onclick="toggleInfo(marker_190);" class="even"><td><span>Wohnstätten</span></td><td><strong>Haus Hommeln</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Richerzhagen 17 <br /> 
+                51515 Kürten-Richerzhagen</td><td><p>10 vollstationäre Plätze</p><p>Wohneinrichtung mit therapeutischem Beschäftigungsbereich für erwachsene autistische Menschen</p><p>Träger: autismus Köln/Bonn e.V., RV zur Förderung von Menschen mit Autismus</p><br /><br /><a href="mailto:info@haus-hommeln.de">info@haus-hommeln.de</a><br /></td></tr><tr class="standorte" id="
+
+
+172" onclick="toggleInfo(marker_172);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Standort Gummersbach des Autismus-Therapiezentrum Netphen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Ulrichstraße 6 a <br /> 
+                51645 Gummersbach</td><td><p>Kontakt über das Autismus-Therapiezentrum Netphen</p><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+195" onclick="toggleInfo(marker_195);" class="even"><td><span>Wohnstätten</span></td><td><strong>Wohnverbund Haus Agathaberg, Stiftung Die Gute Hand</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Agathaberg 13 <br /> 
+                51688 Wipperfürth</td><td><p>Ansprechpartner für Aufnahmen: Mechthild Ficus</p><p>Tel.: 0221 16817201</p><p>Mobil: 0163 7088190</p><p>Einrichtungsleitung: Herr Ingo Vohwinkel</p><p>Tel.: 02267 65 7070 - 1</p><p>E-Mail: i.vohwinkel@die-gute-hand.de</p><br /><br /><a href="mailto:ha-aufnahme@die-gute-hand.de">ha-aufnahme@die-gute-hand.de</a><br /> http://www.bewohner-haus-agathaberg.de und wwwdie-gute-hand.de</td></tr><tr class="standorte" id="
+
+
+138" onclick="toggleInfo(marker_138);" class="odd"><td><span>Regionalverband</span></td><td><strong>Autismus Aachen, Regionalverband Raum Aachen und Umgebung e.V.</strong><br /><span>Regionalverband</span><br /> Nordrhein-Westfalen </td><td>Augustastraße 78 <br /> 
+                52070 Aachen</td><td><br /><br /><a href="mailto:info@autismus-aachen.de">info@autismus-aachen.de</a><br /> http://www.autismus-aachen.de</td></tr><tr class="standorte" id="
+
+
+149" onclick="toggleInfo(marker_149);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Aachen gemeinnützige GmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Augustastraße 78 <br /> 
+                52070 Aachen</td><td><br /><br /><a href="mailto:info@autismus-aachen.de">info@autismus-aachen.de</a><br /> http://www.autismus-aachen.de</td></tr><tr class="standorte" id="
+
+
+150" onclick="toggleInfo(marker_150);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Düren Nebenstelle des Autismus-Therapie-Zentrums Aachen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Scharnhorststraße 24 <br /> 
+                52351 Düren</td><td><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+303" onclick="toggleInfo(marker_303);" class="even"><td><span>Wohnstätten</span></td><td><strong>moveAUT Köln, amb. Dienstleistungen von autismus Köln/Bonn e.V.</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Waldenburger Ring 44 <br /> 
+                53119 Bonn</td><td><p>Ansprechpartner für die Region Köln und Umgebung:<br /> Karolin Kanzler</p><br /><br /><a href="mailto:info@moveaut-koeln.de">info@moveaut-koeln.de</a><br /> http://www.moveaut-koeln.de</td></tr><tr class="standorte" id="
+
+
+304" onclick="toggleInfo(marker_304);" class="odd"><td><span>Wohnstätten</span></td><td><strong>moveAUT Bonn, amb. Dienstleistungen von autismus Köln/Bonn e.V.</strong><br /><span>Wohnstätten</span><br /> Nordrhein-Westfalen </td><td>Waldenburger Ring 44 <br /> 
+                53119 Bonn</td><td><p>Ansprechpartner für die Region Bonn:</p><p>Manuela Ludwig</p><br /><br /><a href="mailto:info@moveaut-bonn.de">info@moveaut-bonn.de</a><br /> http://www.moveaut-bonn.de</td></tr><tr class="standorte" id="
+
+
+154" onclick="toggleInfo(marker_154);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum Bonn</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Waldenburger Ring 44 (Im Gustav-Heinemann-Haus) <br /> 
+                53119 Bonn</td><td><br /><br /><a href="mailto:info@atz-bonn.de">info@atz-bonn.de</a><br /> http://www.atz-bonn.de</td></tr><tr class="standorte" id="
+
+
+167" onclick="toggleInfo(marker_167);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Zweigstelle Siegburg des Autismus-Therapie-Zentrum Bonn</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Annostraße 3 a <br /> 
+                53721 Siegburg</td><td><br /><br /><a href="mailto:info@atz-siegburg.de">info@atz-siegburg.de</a><br /></td></tr><tr class="standorte" id="
+
+
+354" onclick="toggleInfo(marker_354);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Ambulante Erziehungshilfen/ Fachliche Schulbegleitung/ Aufsuchende Autismustherapie - Büro Much</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Hauptstraße 58 <br /> 
+                53804 Much</td><td><br /><br /><a href="mailto:aeh-much@die-gute-hand.de">aeh-much@die-gute-hand.de</a><br /></td></tr><tr class="standorte" id="
+
+
+355" onclick="toggleInfo(marker_355);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismus Trier – unterstützende Dienste gGmbH - Regionale Angebote im Bereich Wohnen und Arbeiten</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Brotstr. 30-31 <br /> 
+                54290 Trier</td><td><br /><br /><br /> http://www.autismus-trier.de</td></tr><tr class="standorte" id="
+
+
+200" onclick="toggleInfo(marker_200);" class="even"><td><span>Regionalverband</span></td><td><strong>Autismus Trier e.V.  RV Mosel-Eifel-Hunsrück, Hilfen für Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Rheinland-Pfalz </td><td>Brotstraße 30-31 <br /> 
+                54290 Trier</td><td><p>Vorsitzende: Brigitte Pfeiffer-Jung</p><br /><br /><a href="mailto:selbsthilfe@autismus-trier.de">selbsthilfe@autismus-trier.de</a><br /> http://www.autismus-trier.de</td></tr><tr class="standorte" id="
+
+
+202" onclick="toggleInfo(marker_202);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Trier - Therapie gGmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Rheinland-Pfalz </td><td>Brotstraße 30-31 <br /> 
+                54290 Trier</td><td><p>&nbsp; Verwaltung</p><br /><br /><a href="mailto:erstkontakt@autismus-trier.de">erstkontakt@autismus-trier.de</a><br /> http://www.autismus-trier.de</td></tr><tr class="standorte" id="
+
+
+204" onclick="toggleInfo(marker_204);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum Standort Trier-Ehrang</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Rheinland-Pfalz </td><td>Schulstraße 5 <br /> 
+                54293 Trier</td><td>Kontakt über Autismus-Therapiezentrum Verwaltung <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+203" onclick="toggleInfo(marker_203);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum Standort Trier-Süd</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Rheinland-Pfalz </td><td>Medardstraße 4 <br /> 
+                54294 Trier</td><td>Kontakt über Autismus-Therapiezentrum Verwaltung <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+317" onclick="toggleInfo(marker_317);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum Trier Standort Daun</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Rheinland-Pfalz </td><td>Alter Neunkirchener Weg 1 b <br /> 
+                54550 Daun</td><td>Kontakt über Autismus-Therapiezentrum Verwaltung <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+208" onclick="toggleInfo(marker_208);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Kompetenzzentrum für Menschen mit Autismus/Stiftung kreuznacher diakonie</strong><br /><span>Wohnstätten</span><br /> Rheinland-Pfalz </td><td>Bühler Weg 28 <br /> 
+                55543 Bad Kreuznach</td><td><p>Haus Rogate</p><p>2 Wohngruppen mit 6 Plätzen für Erwachsene</p><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+198" onclick="toggleInfo(marker_198);" class="even"><td><span>Regionalverband</span></td><td><strong>Autismus Deutschland, RV Rhein-Nahe e.V.</strong><br /><span>Regionalverband</span><br /> Rheinland-Pfalz </td><td>Wüstlautenbach 16 <br /> 
+                55743 Idar-Oberstein</td><td>Vorsitzende: Renate Lang <br /><br /><a href="mailto:remilang@web.de">remilang@web.de</a><br /></td></tr><tr class="standorte" id="
+
+
+205" onclick="toggleInfo(marker_205);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>ATZ Rheinland-Pfalz Nord e.V.</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Rheinland-Pfalz </td><td>Theo-Mackeben-Str. 22 <br /> 
+                56070 Koblenz</td><td><p>Sprechzeiten: Mo - Mi 09.00-13.00 Uhr/ Do 13.00-17.00 Uhr</p><br /><br /><a href="mailto:info@autismus-stark.de">info@autismus-stark.de</a><br /> http://www.autismus-stark.de</td></tr><tr class="standorte" id="
+
+
+201" onclick="toggleInfo(marker_201);" class="even"><td><span>Regionalverband</span></td><td><strong>Autismus Westerwald-Mittelrhein e.V.</strong><br /><span>Regionalverband</span><br /> Rheinland-Pfalz </td><td>Heerstr. 39 <br /> 
+                56179 Vallendar</td><td><p>Vorsitzende: Michaela Jensen</p><br /><br /><a href="mailto:info@autismus-wemi.de">info@autismus-wemi.de</a><br /> http://www.autismus-wemi.de</td></tr><tr class="standorte" id="
+
+
+209" onclick="toggleInfo(marker_209);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Heinrich-Haus gGmbH</strong><br /><span>Sonstige Einrichtungen</span><br /> Rheinland-Pfalz </td><td>Alte Schloßstraße 1 <br /> 
+                56566 Neuwied</td><td>Bereitstellen von Angeboten in den Bereichen Ausbildung, Arbeit, Beschäftigung und Wohnen
+Ansprechpartner: Gisela Schiffer-Sommer Tel. <span style="font-size:11.0pt; font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;">02622 – 892 4306</span><br /><br /><a href="mailto:gisela.schiffer-sommer@bbw-neuwied.de">gisela.schiffer-sommer@bbw-neuwied.de</a><br /></td></tr><tr class="standorte" id="
+
+
+331" onclick="toggleInfo(marker_331);" class="even"><td><span>Wohnstätten</span></td><td><strong>Autismus-Wohnalage Netphen</strong><br /><span>Wohnstätten</span><br /></td><td>Zur Waldesstille 9 <br /> 
+                57250 Netphen-Unlinghausen</td><td><p>19 vollstationäre Plätze und 1 Kurzzeitzimmer ab 18 Jahre</p><br /><br /><a href="mailto:info@autismus-wohnanlage.de">info@autismus-wohnanlage.de</a><br /></td></tr><tr class="standorte" id="
+
+
+147" onclick="toggleInfo(marker_147);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Siegen e.V. - Regionalverband zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Nordrhein-Westfalen </td><td>Hauptstraße 31 B <br /> 
+                57250 Netphen</td><td>Vorsitzender: Andreas Holzem <br /><br /><a href="mailto:info@autismus-siegen.de">info@autismus-siegen.de</a><br /> http://www.autismus-siegen.de</td></tr><tr class="standorte" id="
+
+
+171" onclick="toggleInfo(marker_171);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapiezentrum Netphen gemeinnützige GmbH  -  Standort Netphen-Unglinghausen Therapie und Verwaltung</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Postadresse: Hauptstraße 31 b <br /> 
+                57250 Netphen</td><td><br /><br /><a href="mailto:info@atz-netphen.de">info@atz-netphen.de</a><br /> http://www.autismus-siegen.de</td></tr><tr class="standorte" id="
+
+
+173" onclick="toggleInfo(marker_173);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Standort Wenden des Autismus-Therapiezentrum Netphen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Hauptstraße 11 <br /> 
+                57482 Wenden</td><td><p>Kontakt über das Autismus-Therapiezentrum Netphen</p><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+330" onclick="toggleInfo(marker_330);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Standort Betzdorf des Autismus-Therapiezentrum Netphen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Gontermannstraße 25 <br /> 
+                57518 Betzdorf</td><td><p>Kontakt über Autismus-Therapiezentrum Netphen</p><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+157" onclick="toggleInfo(marker_157);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Außenstelle Hagen des Autismus-Therapie-Zentrum Dortmund und Hagen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Am Pfannenofen 33 <br /> 
+                58097 Hagen</td><td><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+287" onclick="toggleInfo(marker_287);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Evangelische Stiftung Volmarstein</strong><br /><span>Sonstige Einrichtungen</span><br /> Nordrhein-Westfalen </td><td>Hartmannstraße 24 <br /> 
+                58300 Wetter (Ruhr)</td><td><br /><br /><a href="mailto:knoblochm@esv.de">knoblochm@esv.de</a><br /> http://www.esv.de</td></tr><tr class="standorte" id="
+
+
+178" onclick="toggleInfo(marker_178);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Lebenshilfe Lüdenscheid e.V.</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Wehberger Straße 4 b <br /> 
+                58507 Lüdenscheid</td><td><br /><br /><a href="mailto:info@lebenshilfe-luedenscheid.de">info@lebenshilfe-luedenscheid.de</a><br /> http://www.lebenshilfe-luedenscheid.de</td></tr><tr class="standorte" id="
+
+
+282" onclick="toggleInfo(marker_282);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Internationales Bildungs- und Sozialwerk e.V.</strong><br /><span>Sonstige Einrichtungen</span><br /> Nordrhein-Westfalen </td><td>Scherlingstraße 7-9 <br /> 
+                58640 Iserlohn</td><td>Das internationale Bildungs- und Sozialwerk e.V. ist Träger mehrerer Einrichtungen in verschiedenen Bundesländern. Adressen bitte erfragen unter o.g. Geschäftsstelle. <br /><br /><br /> http://www.int-bsw.de</td></tr><tr class="standorte" id="
+
+
+175" onclick="toggleInfo(marker_175);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz des DRK-Kreisverbands Hamm e.V.</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Nordrhein-Westfalen </td><td>Stiftstraße 17 <br /> 
+                59065 Hamm</td><td><br /><br /><a href="mailto:autismusambulanz@drk-hamm.de">autismusambulanz@drk-hamm.de</a><br /> http://www.drk-autismusambulanz-hamm.de</td></tr><tr class="standorte" id="
+
+
+346" onclick="toggleInfo(marker_346);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz Hamm - Standort Soest</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Höggenstr. 5a <br /> 
+                59464 Soest</td><td><p>Mail und Internetkontakt über:</p><p><a href="mailto:autismusambulanz@drk-hamm.de">autismusambulanz@drk-hamm.de</a></p><p>web: <a href="http://www.drk-autismusambulanz-hamm.de">www.drk-autismusambulanz-hamm.de</a></p><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+347" onclick="toggleInfo(marker_347);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismusambulanz Hamm - Standort Arnsberg</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Hansastr. 17 <br /> 
+                59821 Arnsberg</td><td><p>Mail und Internet über</p><p><a href="mailto:autismusambulanz@drk-hamm.de">autismusambulanz@drk-hamm.de</a></p><p>web: <a href="http://www.drk-autismusambulanz-hamm.de">www.drk-autismusambulanz-hamm.de</a></p><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+80" onclick="toggleInfo(marker_80);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Rhein-Main e.V.  RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Hessen </td><td>Geschäftsstelle: Sonnemannstraße 3 <br /> 
+                60314 Frankfurt/M.</td><td><p>Markus Behrendt, Vorsitzender:<br /> E-Mail: markus.behrendt@autismus-rhein-main.de<br /><br /> Frau Lenka Dietrich, stv. Vorsitzende:<br /> E-Mail: lenka.dietrich@autismus-rhein-main.de<br /> &nbsp;</p><br /><br /><a href="mailto:info@autismus-rhein-main.de">info@autismus-rhein-main.de</a><br /> http://www.autismus-rhein-main.de</td></tr><tr class="standorte" id="
+
+
+91" onclick="toggleInfo(marker_91);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Regionalstelle Frankfurt des Autismus-Therapieinstituts Langen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Böttgerstraße 22 <br /> 
+                60389 Frankfurt/M.</td><td><p>Erste Kontaktaufnahme für alle Regionalstellen über die zentrale Verwaltung in Langen:</p><p>Tel. 06103 / 20 28 60<br /><a href="http://www.autismus-langen.de">www.autismus-langen.de</a></p><br /><br /><a href="mailto:autismus@behindertenhilfe-offenbach.de">autismus@behindertenhilfe-offenbach.de</a><br /></td></tr><tr class="standorte" id="
+
+
+87" onclick="toggleInfo(marker_87);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismustherapiezentrum  Klinik für Psychiatrie, Psychosomatik und Psychotherapie des Kindes- und Jugendalters   Goethe-Universität</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Deutschordenstraße 50 <br /> 
+                60528 Frankfurt/M.</td><td><br /><br /><a href="mailto:kjp.ambulanz@kgu.de">kjp.ambulanz@kgu.de</a><br /> http://www.kgu.de</td></tr><tr class="standorte" id="
+
+
+89" onclick="toggleInfo(marker_89);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Regionalstelle Bad Nauheim des Autismus-Therapieinstituts Langen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Karlstraße 57-59 <br /> 
+                61231 Bad Nauheim</td><td><p>Erste Kontaktaufnahme für alle Regionalstellen über die zentrale Verwaltung in Langen:</p><p>Tel. 06103 / 20 28 60<br /><a href="http://www.autismus-langen.de">www.autismus-langen.de</a></p><br /><br /><a href="mailto:autismus@behindertenhilfe-offenbach.de">autismus@behindertenhilfe-offenbach.de</a><br /></td></tr><tr class="standorte" id="
+
+
+95" onclick="toggleInfo(marker_95);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Regionalstelle Offenbach des Autismus-Therapieinstituts Langen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Ludwigstraße 136 <br /> 
+                63067 Offenbach</td><td><p>Erste Kontaktaufnahme für alle Regionalstellen über die zentrale Verwaltung in Langen:</p><p>Tel. 06103 / 20 28 60<br /><a href="http://www.autismus-langen.de">www.autismus-langen.de</a></p><br /><br /><a href="mailto:autismus@behindertenhilfe-offenbach.de">autismus@behindertenhilfe-offenbach.de</a><br /></td></tr><tr class="standorte" id="
+
+
+101" onclick="toggleInfo(marker_101);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Ambulant Betreutes Wohnen für erwachsene Menschen mit Asperger-Autismus</strong><br /><span>Sonstige Einrichtungen</span><br /> Hessen </td><td><br /> 
+                63067 Offenbach</td><td><p>Kontaktaufnahme:<br /> Herr Ralf Maßholder<br /> Autismus-Therapieinstitut<br /> Tel. 06103 - 57 166 -31<br /> E-Mail: r.massholder@behindertenhilfe-offenbach.de</p><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+88" onclick="toggleInfo(marker_88);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapieinstitut</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Robert-Bosch-Straße 11 B <br /> 
+                63225 Langen</td><td><br /><br /><a href="mailto:autismus@behindertenhilfe-offenbach.de">autismus@behindertenhilfe-offenbach.de</a><br /> http://www.autismus-langen.de</td></tr><tr class="standorte" id="
+
+
+90" onclick="toggleInfo(marker_90);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Regionalstelle Darmstadt des Autismus-Therapieinstituts Langen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Steinackerstraße 10 <br /> 
+                64285 Darmstadt</td><td><p>Erste Kontaktaufnahme für alle Regionalstellen über die zentrale Verwaltung in Langen:</p><p>Tel. 06103 / 20 28 60<br /><a href="http://www.autismus-langen.de">www.autismus-langen.de</a></p><br /><br /><a href="mailto:autismus@behindertenhilfe-offenbach.de">autismus@behindertenhilfe-offenbach.de</a><br /></td></tr><tr class="standorte" id="
+
+
+99" onclick="toggleInfo(marker_99);" class="even"><td><span>Wohnstätten</span></td><td><strong>Wohneinrichtungen für erwachsene autistische Menschen</strong><br /><span>Wohnstätten</span><br /> Hessen </td><td>Bodelschwinghweg 5 <br /> 
+                64367 Mühltal bei Darmstadt</td><td><p>Wohneinrichtung für erwachsene autistische Menschen</p><p>18 Plätze stationär / 4 Plätze ambulant</p><p>Ansprechpartner: Herr Münch</p><p>Träger: Nieder-Ramstädter Diakonie</p><br /><br /><a href="mailto:Andreas.Muench@nrd.de">Andreas.Muench@nrd.de</a><br /> http://www.nrd-online.de</td></tr><tr class="standorte" id="
+
+
+93" onclick="toggleInfo(marker_93);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Regionalstelle Heppenheim des Autismus-Therapieinstituts Langen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Friedrichstraße 7 <br /> 
+                64646 Heppenheim</td><td><p>Erste Kontaktaufnahme für alle Regionalstellen über die zentrale Verwaltung in Langen:</p><p>Tel. 06103 / 20 28 60<br /><a href="http://www.autismus-langen.de">www.autismus-langen.de</a></p><br /><br /><a href="mailto:autismus@behindertenhilfe-offenbach.de">autismus@behindertenhilfe-offenbach.de</a><br /></td></tr><tr class="standorte" id="
+
+
+94" onclick="toggleInfo(marker_94);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Regionalstelle Höchst/Odenwald des Autismus-Therapieinstituts Langen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Montmelianer Platz 1a <br /> 
+                64739 Höchst/Odenwald</td><td><p>Erste Kontaktaufnahme für alle Regionalstellen über die zentrale Verwaltung in Langen:</p><p>Tel. 06103 / 20 28 60<br /><a href="http://www.autismus-langen.de">www.autismus-langen.de</a></p><br /><br /><a href="mailto:autismus@behindertenhilfe-offenbach.de">autismus@behindertenhilfe-offenbach.de</a><br /></td></tr><tr class="standorte" id="
+
+
+96" onclick="toggleInfo(marker_96);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Regionalstelle Wiesbaden des Autismus-Therapieinstituts Langen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Hessen </td><td>Niederwaldstraße 8 <br /> 
+                65187 Wiesbaden</td><td><p>Erste Kontaktaufnahme für alle Regionalstellen über die zentrale Verwaltung in Langen:</p><p>Tel. 06103 / 20 28 60<br /> &nbsp;&nbsp; <a href="http://www.autismus-langen.de">www.autismus-langen.de</a></p><br /><br /><a href="mailto:autismus@behindertenhilfe-offenbach.de">autismus@behindertenhilfe-offenbach.de</a><br /></td></tr><tr class="standorte" id="
+
+
+365" onclick="toggleInfo(marker_365);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismuszentrum des ASB Landesverband Hessen e.V. - Regionalverband Westhessen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Barbarastr. 1 <br /> 
+                65232 Taunusstein</td><td><br /><br /><a href="mailto:autismuszentrum@asb-westhessen.de">autismuszentrum@asb-westhessen.de</a><br /></td></tr><tr class="standorte" id="
+
+
+212" onclick="toggleInfo(marker_212);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Außenstelle Homburg des Autismus-Therapie-Zentrums Saar gGmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Saarland </td><td>Saarbrücker Straße 116 <br /> 
+                66421 Homburg</td><td><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+210" onclick="toggleInfo(marker_210);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Saarland e.V.  Landesverband zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Saarland </td><td>Hauptstraße 113 <br /> 
+                66740 Saarlouis</td><td><br /><br /><a href="mailto:info@autismus-saarland.de">info@autismus-saarland.de</a><br /> http://www.autismus-saarland.de</td></tr><tr class="standorte" id="
+
+
+211" onclick="toggleInfo(marker_211);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Saar gGmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Saarland </td><td>Hauptstraße 113 <br /> 
+                66740 Saarlouis</td><td><br /><br /><a href="mailto:mail@autismuszentrum-saar.de">mail@autismuszentrum-saar.de</a><br /> http://www.autismuszentrum-saar.de</td></tr><tr class="standorte" id="
+
+
+343" onclick="toggleInfo(marker_343);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>AWO Autismus – Therapiezentrum Mannheim - Außenstelle: Ludwigshafen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Rheinland-Pfalz </td><td>Wredestraße 53 <br /> 
+                67059 Ludwigshafen</td><td><br /><br /><br /> http://www.awo-mannheim.de</td></tr><tr class="standorte" id="
+
+
+308" onclick="toggleInfo(marker_308);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Westpfalz e.V.</strong><br /><span>Regionalverband</span><br /> Rheinland-Pfalz </td><td>Sandhofstraße 8 <br /> 
+                67677 Enkenbach-Alsenborn</td><td>Vorsitzender: Klaus Winter <br /><br /><a href="mailto:info@autismus-westpfalz.de">info@autismus-westpfalz.de</a><br /> http://www.autismus-westpfalz.de</td></tr><tr class="standorte" id="
+
+
+371" onclick="toggleInfo(marker_371);" class="even"><td><span>Wohnstätten</span></td><td><strong>Ambulant sozialtherapeutisches Wohnen</strong><br /><span>Wohnstätten</span><br /></td><td>Hauptstraße 36 <br /> 
+                67681 Wartenberg-Rohrbach</td><td><br /><br /><a href="mailto:info@autismus-westpfalz.de">info@autismus-westpfalz.de</a><br /> http://www.autismus-westpfalz.de/</td></tr><tr class="standorte" id="
+
+
+47" onclick="toggleInfo(marker_47);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>AWO Autismus – Therapiezentrum Mannheim</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Baden-Württemberg </td><td>S6 18 <br /> 
+                68161 Mannheim</td><td><p>Träger: Arbeiterwohlfahrt Kreisverband Mannheim-Stadt e.V., Murgstraße 3, 68167 Mannheim</p><br /><br /><br /> http://www.awo-mannheim.de</td></tr><tr class="standorte" id="
+
+
+49" onclick="toggleInfo(marker_49);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Berufsbildungswerk Neckargemünd GmbH</strong><br /><span>Sonstige Einrichtungen</span><br /> Baden-Württemberg </td><td>Im Spitzerfeld 25 <br /> 
+                69151 Neckargemünd</td><td><br /><br /><a href="mailto:info@bbw.srh.de">info@bbw.srh.de</a><br /> http://www.bbw-neckargemuend.de</td></tr><tr class="standorte" id="
+
+
+338" onclick="toggleInfo(marker_338);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Außenstelle Wiesloch des AutismusZentrum Bruchsal</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Zum Keitelberg 14 <br /> 
+                69168 Wiesloch</td><td><br /><br /><a href="mailto:info@az-bruchsal.de">info@az-bruchsal.de</a><br /> http://www.facebook.com\\AutismusZentrum Bruchsal</td></tr><tr class="standorte" id="
+
+
+321" onclick="toggleInfo(marker_321);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismuszentrum Komm!ASS</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Heidelberger Str. 20 <br /> 
+                69198 Schriesheim</td><td><p>Träger: Pilgerhaus Weinheim</p><br /><br /><a href="mailto:info@komm-ass.de">info@komm-ass.de</a><br /> http://https://www.pilgerhaus.de/junge-menschen-familien/beratung/autismuszentrum-kommass/</td></tr><tr class="standorte" id="
+
+
+25" onclick="toggleInfo(marker_25);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Rhein-Neckar e.V. Vereinigung zur Förderung autistischer Menschen</strong><br /><span>Regionalverband</span><br /> Baden-Württemberg </td><td>Christophstraße 32 <br /> 
+                69214 Eppelheim</td><td><p>Vorstand: Sabine Melugin</p><br /><br /><a href="mailto:autismus-rhein-neckar@online.de">autismus-rhein-neckar@online.de</a><br /> http://www.autismus-rnk.com</td></tr><tr class="standorte" id="
+
+
+42" onclick="toggleInfo(marker_42);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Koordinationsstelle für Therapie und Offene Hilfen</strong><br /><span>Sonstige Einrichtungen</span><br /> Baden-Württemberg </td><td>Christophstraße 32 <br /> 
+                69214 Eppelheim</td><td>Ansprechpartnerin: Sabine Melugin <br /><br /><a href="mailto:koordinationsstelle@autismus-rhein-neckar.de">koordinationsstelle@autismus-rhein-neckar.de</a><br /> http://www.autismus-rhein-neckar.de</td></tr><tr class="standorte" id="
+
+
+40" onclick="toggleInfo(marker_40);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>SeLMA (Selbständig Leben Mit Autismus)</strong><br /><span>Sonstige Einrichtungen</span><br /> Baden-Württemberg </td><td>Pfarrer-Hofmann-Str. 10 <br /> 
+                69231 Malschenberg</td><td><br /><br /><a href="mailto:selma@autismus-rhein-neckar.de">selma@autismus-rhein-neckar.de</a><br /></td></tr><tr class="standorte" id="
+
+
+36" onclick="toggleInfo(marker_36);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>ZAKS Zentrum für Autismus Kompetenz Stuttgart</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Baden-Württemberg </td><td>Ulmer Str. 239 <br /> 
+                70327 Stuttgart-Wangen</td><td><br /><br /><a href="mailto:agathe.scharrer@paulinenpflege.de">agathe.scharrer@paulinenpflege.de</a><br /></td></tr><tr class="standorte" id="
+
+
+50" onclick="toggleInfo(marker_50);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Stiftung Jugendhilfe aktiv</strong><br /><span>Sonstige Einrichtungen</span><br /> Baden-Württemberg </td><td>Bernhauser Straße 20 <br /> 
+                70599 70599</td><td>Schneckenhaus 1, 2 und 3
+Dietrich-Bonhoeffer-Schule
+Ansprechpartner: Hans-Martin Burkhardt <br /><br /><a href="mailto:burkhardt.hans-martin@jugendhilfe-aktiv.de">burkhardt.hans-martin@jugendhilfe-aktiv.de</a><br /> http://www.jugendhilfe-aktiv.de</td></tr><tr class="standorte" id="
+
+
+41" onclick="toggleInfo(marker_41);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>GWW  Begleitung und Eingliederung von Menschen mit Autismus</strong><br /><span>Sonstige Einrichtungen</span><br /> Baden-Württemberg </td><td>Robert-Koch-Str. 15 <br /> 
+                71116 Gärtringen</td><td><br /><br /><a href="mailto:kontakt@gww-netz.de">kontakt@gww-netz.de</a><br /> http://www.gww-netz.de</td></tr><tr class="standorte" id="
+
+
+28" onclick="toggleInfo(marker_28);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Nordbaden-Pfalz e.V.  RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Baden-Württemberg </td><td>Mühlrain 17 <br /> 
+                71296 Heimsheim</td><td><p>Vorsitzender: Harald Holeczek<br /> Vereinsaktivitäten im Raum Heidelberg.</p><br /><br /><a href="mailto:kontakt@autismus-nordbaden-pfalz.de">kontakt@autismus-nordbaden-pfalz.de</a><br /> http://www.autismus-nordbaden-pfalz.de</td></tr><tr class="standorte" id="
+
+
+37" onclick="toggleInfo(marker_37);" class="even"><td><span>Wohnstätten</span></td><td><strong>Haus Wolga</strong><br /><span>Wohnstätten</span><br /> Baden-Württemberg </td><td><br /> 
+                71364 Winnenden</td><td>Paulinenpflege Winnenden e.V.&nbsp; Einrichtung der Jugend- und Behindertenhilfe
+Fachdienst Autismus: Dany Kral
+Wohnhaus für 8 erwachsene Menschen mit Autismus (ASS) und Tagesförderung (TAGWERK)
+
+Träger: Paulinenpflege Winnenden e.V., Ringstr. 106, 71364 Winnenden
+
+ <br /><br /><a href="mailto:dany.kral@paulinenpflege.de">dany.kral@paulinenpflege.de</a><br /> http://www.paulinenpflege.de</td></tr><tr class="standorte" id="
+
+
+52" onclick="toggleInfo(marker_52);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Bodenwaldschule (Erziehungshilfe) - Inklusive Beschulungsform autistischer Kinder (Grundschule)</strong><br /><span>Sonstige Einrichtungen</span><br /> Baden-Württemberg </td><td>Friedrich-Jacob-Heim-Straße 44 <br /> 
+                71364 Winnenden</td><td>Schulleiter: Gottfried Götz <br /><br /><a href="mailto:gottfried.goetz@paulinenpflege.de">gottfried.goetz@paulinenpflege.de</a><br /></td></tr><tr class="standorte" id="
+
+
+296" onclick="toggleInfo(marker_296);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismusstiftung Tübingen</strong><br /><span>Sonstige Einrichtungen</span><br /> Baden-Württemberg </td><td>Egeria Platz 20 <br /> 
+                72074 Tübingen</td><td>Ansprechpartner: Dr. Wolfgang Heyder <br /><br /><a href="mailto:info@autismusstiftung.eu">info@autismusstiftung.eu</a><br /></td></tr><tr class="standorte" id="
+
+
+38" onclick="toggleInfo(marker_38);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Erzb. Kinderheim Haus Nazareth</strong><br /><span>Wohnstätten</span><br /> Baden-Württemberg </td><td>Brunnenbergstr. 34 <br /> 
+                72488 Sigmaringen</td><td>Erziehungsleitung: Daniel Hahn <br /><br /><a href="mailto:daniel.hahn@haus-nazareth-sig.de">daniel.hahn@haus-nazareth-sig.de</a><br /></td></tr><tr class="standorte" id="
+
+
+30" onclick="toggleInfo(marker_30);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Stuttgart e.V.  RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Baden-Württemberg </td><td>Ostlandstraße 3 <br /> 
+                73760 Ostfildern</td><td>Vorsitzende: Helga Braun-Habscheid <br /><br /><a href="mailto:autismus_stuttgart@gmx.de">autismus_stuttgart@gmx.de</a><br /> http://www.autismusstuttgart.de</td></tr><tr class="standorte" id="
+
+
+45" onclick="toggleInfo(marker_45);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>autista Heilbronn - Autismus Kompetenz Zentrum au56</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Baden-Württemberg </td><td>Austraße 56 <br /> 
+                74076 Heilbronn</td><td><br /><br /><a href="mailto:kontakt@autista-heilbronn.de">kontakt@autista-heilbronn.de</a><br /> http://https://www.autista-heilbronn.de/</td></tr><tr class="standorte" id="
+
+
+29" onclick="toggleInfo(marker_29);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Heilbronn e.V.  RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Baden-Württemberg </td><td>Schubartweg 7 <br /> 
+                74182 Obersulm</td><td><p>Vorsitzende: Marlis Seibert</p><br /><br /><a href="mailto:kontakt@autista-heilbronn.de">kontakt@autista-heilbronn.de</a><br /> http://www.autista-heilbronn.de</td></tr><tr class="standorte" id="
+
+
+46" onclick="toggleInfo(marker_46);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Verbund  Praxis Autismus (Hauptstelle)</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Baden-Württemberg </td><td>Beiertheimer Allee 9 <br /> 
+                76137 Karlsruhe</td><td>Ansprechpartner: Rolf M. Seemann
+Außenstellen in Kandel (Rheinland-Pfalz) und Pforzheim <br /><br /><a href="mailto:info@praxis-autismus.de">info@praxis-autismus.de</a><br /> http://www.praxis-autismus.de</td></tr><tr class="standorte" id="
+
+
+27" onclick="toggleInfo(marker_27);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Karlsruhe e.V.</strong><br /><span>Regionalverband</span><br /> Baden-Württemberg </td><td>Durmersheimer Straße 83 <br /> 
+                76185 Karlsruhe</td><td>Vorsitzende: Yvonne Günther-Samson<span style="font-size:10.0pt; font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;"></span><br /><br /><a href="mailto:info@autismus-karlsruhe.de">info@autismus-karlsruhe.de</a><br /> http://www.autismus-karlsruhe.de</td></tr><tr class="standorte" id="
+
+
+337" onclick="toggleInfo(marker_337);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Außenstelle Durlach des AutismusZentrum Bruchsal</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Zehnstr. 7 <br /> 
+                76227 Durlach</td><td><br /><br /><a href="mailto:info@az-bruchsal.de">info@az-bruchsal.de</a><br /> http://&quot;http://www.facebook.com\\AutismusZentrum Bruchsal&quot;</td></tr><tr class="standorte" id="
+
+
+43" onclick="toggleInfo(marker_43);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>AutismusZentrum Bruchsal</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Baden-Württemberg </td><td>Wilderichstraße 11 <br /> 
+                76646 Bruchsal</td><td><p>Ansprechpartner: Frau Daniela Hauser</p><p><br /> Facebook: www.facebook.com/AutismusZentrum.Bruchsal</p><br /><br /><a href="mailto:info@az-bruchsal.de">info@az-bruchsal.de</a><br /> http://www.az-bruchsal.de</td></tr><tr class="standorte" id="
+
+
+44" onclick="toggleInfo(marker_44);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Außenstelle Bad Schönborn des AutismusZentrums Bruchsal</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Baden-Württemberg </td><td>Friedrichstraße 66 <br /> 
+                76669 Bad Schönborn</td><td><br /><br /><a href="mailto:info@az-bruchsal.de">info@az-bruchsal.de</a><br /></td></tr><tr class="standorte" id="
+
+
+359" onclick="toggleInfo(marker_359);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus Therapie-Zentrum Offenburg</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Hauptstr. 42 <br /> 
+                77652 Offenburg</td><td><br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+35" onclick="toggleInfo(marker_35);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Lahr</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Baden-Württemberg </td><td>Freiburger Straße 24 <br /> 
+                77933 Lahr</td><td><br /><br /><a href="mailto:atz-lahr@autismus-suedbaden.de">atz-lahr@autismus-suedbaden.de</a><br /></td></tr><tr class="standorte" id="
+
+
+356" onclick="toggleInfo(marker_356);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Therapiehof Hegau – GREAT gUG</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Staadäckerweg 25 <br /> 
+                78239 Rielasingen-Worblingen</td><td><br /><br /><a href="mailto:info@therapiehof-hegau.de">info@therapiehof-hegau.de</a><br /> http://https://therapiehof-hegau.de/</td></tr><tr class="standorte" id="
+
+
+31" onclick="toggleInfo(marker_31);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Bodensee e.V.  RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Baden-Württemberg </td><td>Saalenstr. 2 <br /> 
+                78333 Stockach (Kreis Konstanz)</td><td><p>Vorsitzende: Michaela Mentzel</p><br /><br /><a href="mailto:michaela.mentzel@web.de">michaela.mentzel@web.de</a><br /> http://www.autismus-bodensee.de</td></tr><tr class="standorte" id="
+
+
+48" onclick="toggleInfo(marker_48);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Mutpol - Diakonische Jugendhilfe Tuttlingen e.V.</strong><br /><span>Sonstige Einrichtungen</span><br /> Baden-Württemberg </td><td>Im Steinigen Tal 10/1 <br /> 
+                78532 Tuttlingen</td><td>Gesamtleitung: Dieter Meyer
+Ansprechpartnerin: Renée Drossard Tel. 07461 / 1706-23, <link drossard@mutpol.de>drossard@mutpol.de</link><br />Fachdienst Psychologie - Therapie - Heilpädagogik
+Schulische Angebote: Volker Schmidt <link volkerschmid@mutpol.de>volkerschmid@mutpol.de</link><br /><br /><a href="mailto:meyer@mutpol.de">meyer@mutpol.de</a><br /> http://www.mutpol.de</td></tr><tr class="standorte" id="
+
+
+33" onclick="toggleInfo(marker_33);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Zentrum für Autismus-Kompetenz Südbaden gGmbH - Beratungsstelle</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Baden-Württemberg </td><td>Grünwälderstraße 1 - 7 <br /> 
+                79098 Freiburg</td><td><p>Leitung: Michaela Riedinger</p><br /><br /><a href="mailto:beratungsstelle@autismus-suedbaden.de">beratungsstelle@autismus-suedbaden.de</a><br /> http://www.autismus-suedbaden.de</td></tr><tr class="standorte" id="
+
+
+306" onclick="toggleInfo(marker_306);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Freiburg Jacob-Burckhardt-Straße</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Baden-Württemberg </td><td>Jacob-Burckhardt-Straße 1 <br /> 
+                79098 Freiburg im Breisgau</td><td><br /><br /><a href="mailto:atz-freiburg-jbs@autismus-suedbaden.de">atz-freiburg-jbs@autismus-suedbaden.de</a><br /></td></tr><tr class="standorte" id="
+
+
+26" onclick="toggleInfo(marker_26);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Südbaden e.V. RV zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Baden-Württemberg </td><td>Kronenstr. 32 <br /> 
+                79100 Freiburg</td><td><p>Vorsitzende: Janice Santos,</p><br /><br /><a href="mailto:verein@ass-suedbaden.de">verein@ass-suedbaden.de</a><br /> http://www.ass-suedbaden.de</td></tr><tr class="standorte" id="
+
+
+32" onclick="toggleInfo(marker_32);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Zentrum für Autismus-Kompetenz Südbaden gGmbH</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Baden-Württemberg </td><td>Kronenstraße 32 <br /> 
+                79100 Freiburg</td><td><br /><br /><a href="mailto:zaks@autismus-suedbaden.de">zaks@autismus-suedbaden.de</a><br /> http://www.autismus-suedbaden.de</td></tr><tr class="standorte" id="
+
+
+329" onclick="toggleInfo(marker_329);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Freiburg Kronenstraße</strong><br /><span>Einrichtungen/Therapiezentren</span><br /></td><td>Kronenstraße 32 <br /> 
+                79100 Freiburg</td><td><br /><br /><a href="mailto:atz-freiburg@autismus-suedbaden.de">atz-freiburg@autismus-suedbaden.de</a><br /></td></tr><tr class="standorte" id="
+
+
+360" onclick="toggleInfo(marker_360);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Ambulanter Unterstützungsdienst</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Kronenstr. 32 <br /> 
+                79100 Freiburg</td><td><br /><br /><a href="mailto:unterstuetzungsdienst@autismus-suedbaden.de">unterstuetzungsdienst@autismus-suedbaden.de</a><br /></td></tr><tr class="standorte" id="
+
+
+39" onclick="toggleInfo(marker_39);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Flex-Fernschule  Christopherus-Jugendwerk</strong><br /><span>Sonstige Einrichtungen</span><br /> Baden-Württemberg </td><td>Oberrimsingen <br /> 
+                79206 Breisach</td><td><br /><br /><a href="mailto:info@flex-fernschule.de">info@flex-fernschule.de</a><br /> http://www.flex-fernschule.de</td></tr><tr class="standorte" id="
+
+
+34" onclick="toggleInfo(marker_34);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismus-Therapie-Zentrum Bad Säckingen</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Baden-Württemberg </td><td>Allemannenweg 1 <br /> 
+                79713 Bad Säckingen</td><td><br /><br /><a href="mailto:atz-badsaeckingen@autismus-suedbaden.de">atz-badsaeckingen@autismus-suedbaden.de</a><br /></td></tr><tr class="standorte" id="
+
+
+55" onclick="toggleInfo(marker_55);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Oberbayern e.V.   Vereinigung zur Förderung von autistischen Kindern, Jugendlichen und Erwachsenen</strong><br /><span>Regionalverband</span><br /> Bayern </td><td>Poccistraße 5 <br /> 
+                80336 München</td><td><p>Vorsitzender: Herbert Greulich</p><br /><br /><a href="mailto:mail@autismus-oberbayern.de">mail@autismus-oberbayern.de</a><br /> http://www.autismus-oberbayern.de</td></tr><tr class="standorte" id="
+
+
+64" onclick="toggleInfo(marker_64);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Kontakt und ambulante Hilfen, autismus Oberbayern e.V.</strong><br /><span>Sonstige Einrichtungen</span><br /> Bayern </td><td>Poccistraße 5 <br /> 
+                80336 München</td><td><br /><br /><a href="mailto:mail@autismus-oberbayern.de">mail@autismus-oberbayern.de</a><br /> http://www.autismus-oberbayern.de</td></tr><tr class="standorte" id="
+
+
+63" onclick="toggleInfo(marker_63);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismus-Kompetenzzentrum Oberbayern gGmbH</strong><br /><span>Sonstige Einrichtungen</span><br /> Bayern </td><td>Zamdorfer Straße 100 <br /> 
+                81677 München</td><td><br /><br /><a href="mailto:info@autkom-obb.de">info@autkom-obb.de</a><br /> http://www.autkom-obb.de</td></tr><tr class="standorte" id="
+
+
+71" onclick="toggleInfo(marker_71);" class="even"><td><span>Wohnstätten</span></td><td><strong>CASA ROSSA Stiftung Attl - Einrichtung für behinderte Menschen</strong><br /><span>Wohnstätten</span><br /> Bayern </td><td>Attel 11 <br /> 
+                83512 Wasserburg</td><td>Zwei Wohngemeinschaften à 8 Personen <br /><br /><a href="mailto:mail@stiftung.attl.de">mail@stiftung.attl.de</a><br /> http://www.stiftung.attl.de</td></tr><tr class="standorte" id="
+
+
+60" onclick="toggleInfo(marker_60);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Kompetenzzentrum Autismus Schwaben-Nord   Caritasverband der Diözese Augsburg e.V.</strong><br /><span>Sonstige Einrichtungen</span><br /> Bayern </td><td>Auf dem Kreuz 41 <br /> 
+                86152 Augsburg</td><td><br /><br /><a href="mailto:autismus@caritas-augsburg.de">autismus@caritas-augsburg.de</a><br /></td></tr><tr class="standorte" id="
+
+
+59" onclick="toggleInfo(marker_59);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismus Zentrum Schwaben gemeinnützige GmbH</strong><br /><span>Sonstige Einrichtungen</span><br /> Bayern </td><td>Schwalbenweg 61 <br /> 
+                87439 Kempten (Allgäu)</td><td>Projektkoordinator: David Scheible <br /><br /><a href="mailto:info@autismus-schwaben.de">info@autismus-schwaben.de</a><br /> http://www.autismus-schwaben.de</td></tr><tr class="standorte" id="
+
+
+66" onclick="toggleInfo(marker_66);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismus-Ambulanz der Stadtmission Nürnberg e.V.</strong><br /><span>Sonstige Einrichtungen</span><br /> Bayern </td><td>Burgschmietstraße 34 <br /> 
+                90419 Nürnberg</td><td>Unsere Außenstellen in Ansbach und Erlangen sind ebenfalls über diese Kontaktdaten erreichbar. <br /><br /><a href="mailto:autismus-ambulanz@stadtmission-nuernberg.de">autismus-ambulanz@stadtmission-nuernberg.de</a><br /> http://www.autismus-ambulanz.de</td></tr><tr class="standorte" id="
+
+
+65" onclick="toggleInfo(marker_65);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismus-Kompetenz-Zentrum Mittelfranken</strong><br /><span>Sonstige Einrichtungen</span><br /> Bayern </td><td>Fahrradstraße 13 <br /> 
+                90429 Nürnberg</td><td><br /><br /><a href="mailto:info@autismus-mittelfranken.de">info@autismus-mittelfranken.de</a><br /> http://www.autismus-mittelfranken.de</td></tr><tr class="standorte" id="
+
+
+56" onclick="toggleInfo(marker_56);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Mittelfranken e.V.   Vereinigung zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Bayern </td><td>Himmelgartenstraße 16 <br /> 
+                91077 Neunkirchen am Brand</td><td>Vorsitzender: Stefan Bauerfeind <br /><br /><a href="mailto:info@autismus-mfr.de">info@autismus-mfr.de</a><br /> http://www.autismus-mfr.de</td></tr><tr class="standorte" id="
+
+
+68" onclick="toggleInfo(marker_68);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Netzwerk Autismus  - Beratungs- und Koordinationsstelle für die Oberpfalz</strong><br /><span>Sonstige Einrichtungen</span><br /> Bayern </td><td>Grasgasse 12 <br /> 
+                93047 Regensburg</td><td>Ansprechpartner:
+Jana Steuernagel (Dipl.Psych.)
+Heike Vogel (Dipl.Soz.Päd. FH) <br /><br /><a href="mailto:opf@netzwerk-autismus.eu">opf@netzwerk-autismus.eu</a><br /> http://www.netzwerk-autismus.eu</td></tr><tr class="standorte" id="
+
+
+58" onclick="toggleInfo(marker_58);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Regensburg e.V.   Vereinigung zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Bayern </td><td>Reinhausen 24 <br /> 
+                93059 Regensburg</td><td><p>1. Vorsitzende: Dr. Iris Hackemeier</p><br /><br /><a href="mailto:autismus-regensburg@gmx.de">autismus-regensburg@gmx.de</a><br /> http://www.autismus-regensburg.de</td></tr><tr class="standorte" id="
+
+
+70" onclick="toggleInfo(marker_70);" class="even"><td><span>Wohnstätten</span></td><td><strong>Barmherzige Brüder Reichenbach</strong><br /><span>Wohnstätten</span><br /> Bayern </td><td>Eustachius-Kugler-Straße 2 <br /> 
+                93189 Reichenbach</td><td>Wohnen-Beschäftigen-Arbeiten für Menschen mit Autismus
+Wohneinrichtung Walderbach/Reichenbach: 4 Wohngruppen, eingestreute Wohnheimplätze in Wohngruppen; Trainingswohngruppe; Begleitung und Assistenz im Ambulant Betreuten Wohnen; Tagesförderstätte für erwachsene Menschen mit Autismus; individuelle Arbeitsplätze in der WfbM <br /><br /><a href="mailto:verwaltung@barmherzige-reichenbach.de">verwaltung@barmherzige-reichenbach.de</a><br /> http://www.barmherzige-reichenbach.de</td></tr><tr class="standorte" id="
+
+
+67" onclick="toggleInfo(marker_67);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Netzwerk Autismus  -  Beratungs- und Koordinierungsstelle für Niederbayern</strong><br /><span>Sonstige Einrichtungen</span><br /> Bayern </td><td>Bahnhofstraße 32 <br /> 
+                94032 Passau</td><td><p>Ansprechpartner:</p><p>Elfi Gonaruk, Dipl.Soz.Päd (FH)</p><p>Edith Greil, Dipl.Soz.Päd (FH)</p><br /><br /><a href="mailto:ndb@netzwerk-autismus.eu">ndb@netzwerk-autismus.eu</a><br /> http://www.netzwerk-autismus.eu</td></tr><tr class="standorte" id="
+
+
+53" onclick="toggleInfo(marker_53);" class="even"><td><span>Regionalverband</span></td><td><strong>Autismus Oberfranken e.V.   Verein zur Förderung für Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Bayern </td><td>Robert-Koch-Straße 5 <br /> 
+                96049 Bamberg</td><td>Vorsitzender: Dieter Sauer <br /><br /><a href="mailto:d.sauer@autismus-oberfranken.de">d.sauer@autismus-oberfranken.de</a><br /> http://www.autismus-oberfranken.de</td></tr><tr class="standorte" id="
+
+
+61" onclick="toggleInfo(marker_61);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismus-Kompetenzzentrum Oberfranken</strong><br /><span>Sonstige Einrichtungen</span><br /> Bayern </td><td>Weihersbach 20 <br /> 
+                96224 Burgkunstadt</td><td><br /><br /><a href="mailto:info@autkom-ofr.de">info@autkom-ofr.de</a><br /> http://www.autkom-ofr.de</td></tr><tr class="standorte" id="
+
+
+62" onclick="toggleInfo(marker_62);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Außenstelle Burgkunstadt der Autismus-Ambulanz der Stadtmission Nürnberg e.V.</strong><br /><span>Sonstige Einrichtungen</span><br /> Bayern </td><td>Weihersbach 20 <br /> 
+                96224 Burgkunstadt</td><td>Unsere Außenstellen in Bayreuth, Bamberg und Hof sind ebenfalls über diese Kontaktdaten erreichbar. <br /><br /><a href="mailto:autismus-ambulanz-oberfranken@stadtmission-nuernberg.de">autismus-ambulanz-oberfranken@stadtmission-nuernberg.de</a><br /> http://www.autismus-ambulanz.de, www.stadtmission-nuernberg.de</td></tr><tr class="standorte" id="
+
+
+69" onclick="toggleInfo(marker_69);" class="odd"><td><span>Sonstige Einrichtungen</span></td><td><strong>Autismus Kompetenzzentrum Unterfranken e.V.</strong><br /><span>Sonstige Einrichtungen</span><br /> Bayern </td><td>Lindleinstraße 16 <br /> 
+                97080 Würzburg</td><td><br /><br /><a href="mailto:info@autismus-unterfranken.de">info@autismus-unterfranken.de</a><br /> http://www.autismus-unterfranken.de</td></tr><tr class="standorte" id="
+
+
+57" onclick="toggleInfo(marker_57);" class="even"><td><span>Regionalverband</span></td><td><strong>Autismus Unterfranken e.V.  Information - Hilfe - Förderung</strong><br /><span>Regionalverband</span><br /> Bayern </td><td>Hauptstraße 97 <br /> 
+                97320 Mainstockheim</td><td>Vorsitzende: Stefanie Obermeier <br /><br /><a href="mailto:info@autismus-ufr.de">info@autismus-ufr.de</a><br /> http://www.autismus-ufr.de</td></tr><tr class="standorte" id="
+
+
+314" onclick="toggleInfo(marker_314);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismuszentrum Kleine Wege in Suhl</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Thüringen </td><td>Rimbachstraße 17 <br /> 
+                98257 Suhl</td><td><br /><br /><a href="mailto:autismuszentrum.suhl@kleine-wege.de">autismuszentrum.suhl@kleine-wege.de</a><br /></td></tr><tr class="standorte" id="
+
+
+242" onclick="toggleInfo(marker_242);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismuszentrum Kleine Wege in Erfurt</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Thüringen </td><td>Marbacher Gasse 35-37 <br /> 
+                99084 Erfurt</td><td><br /><br /><a href="mailto:erfurt@kleine-wege.de">erfurt@kleine-wege.de</a><br /> http://www.kleine-wege.de</td></tr><tr class="standorte" id="
+
+
+299" onclick="toggleInfo(marker_299);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismuszentrum KleineWege in Weimar</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Thüringen </td><td>Steubenstraße 15 <br /> 
+                99423 Weimar</td><td><br /><br /><a href="mailto:weimar@kleine-wege.de">weimar@kleine-wege.de</a><br /> http://www.kleine-wege.de</td></tr><tr class="standorte" id="
+
+
+241" onclick="toggleInfo(marker_241);" class="even"><td><span>Regionalverband</span></td><td><strong>autismus Südharz e.V., Regionalverband zur Förderung von Menschen mit Autismus</strong><br /><span>Regionalverband</span><br /> Thüringen </td><td>Meyenburgstraße 8 <br /> 
+                99734 Nordhausen</td><td>Vorsitzende: Simone Urban <br /><br /><a href="mailto:vorstand-rv@autismus-nordhausen.de">vorstand-rv@autismus-nordhausen.de</a><br /> http://www.autismus-nordhausen.de</td></tr><tr class="standorte" id="
+
+
+243" onclick="toggleInfo(marker_243);" class="odd"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>KleineWege® | Autismuszentrum &amp; Beratungsstelle</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Thüringen </td><td>Geiersberg 12 <br /> 
+                99734 Nordhausen</td><td><br /><br /><a href="mailto:kontakt@kleine-wege.de">kontakt@kleine-wege.de</a><br /> http://www.kleine-wege.de</td></tr><tr class="standorte" id="
+
+
+245" onclick="toggleInfo(marker_245);" class="even"><td><span>Wohnstätten</span></td><td><strong>Wohneinrichtung für autistische Kinder, Jugendliche und Erwachsene</strong><br /><span>Wohnstätten</span><br /> Thüringen </td><td>Förster-Genzel-Straße 4 <br /> 
+                99752 Bleicherode (Nordthüringen)</td><td>4 Wohngruppen <br /><br /><br /></td></tr><tr class="standorte" id="
+
+
+144" onclick="toggleInfo(marker_144);" class="odd"><td><span>Regionalverband</span></td><td><strong>autismus Köln / Bonn e.V.</strong><br /><span>Regionalverband</span><br /> Nordrhein-Westfalen </td><td>Neusser Straße 786 <br /> 
+                Deutschland Köln</td><td><br /><br /><a href="mailto:info@autismus-koelnbonn.de">info@autismus-koelnbonn.de</a><br /> http://www.autismus-koelnbonn.de</td></tr><tr class="standorte" id="
+
+
+372" onclick="toggleInfo(marker_372);" class="even"><td><span>Sonstige Einrichtungen</span></td><td><strong>Bergedorfer Impuls gGmbH</strong><br /><span>Sonstige Einrichtungen</span><br /></td><td>Nagelsweg 10 <br /> 
+                20097 Hamburg</td><td><p>Ansprechpartnerin: Beatrice Tenge</p><br /><br /><a href="mailto:b.tenge@impuls-reha.de">b.tenge@impuls-reha.de</a><br /> http://www.impuls-reha.de</td></tr><tr class="standorte" id="
+
+
+235" onclick="toggleInfo(marker_235);" class="odd"><td><span>Wohnstätten</span></td><td><strong>Therapeutische Jugendwohngruppe Husum für Jugendliche mit autistischen Störungen</strong><br /><span>Wohnstätten</span><br /> Schleswig-Holstein </td><td>Berliner Straße 62 <br /> 
+                25813 Husum</td><td><p>12 Plätze für Jugendliche ab 12 Jahren mit autistischen Behinderungen (Asperger-Autismus) in zwei Wohnbereichen mit Wohngruppenbetreuung in einer therapeutisch ausgerichteten Jugendhilfemaßnahme.</p><br /><br /><a href="mailto:info@jugendhilfe-schleswigland.de">info@jugendhilfe-schleswigland.de</a><br /></td></tr><tr class="standorte" id="
+
+
+207" onclick="toggleInfo(marker_207);" class="even"><td><span>Einrichtungen/Therapiezentren</span></td><td><strong>Autismuszentrum Kompetenz-Autismus</strong><br /><span>Einrichtungen/Therapiezentren</span><br /> Rheinland-Pfalz </td><td>Goethestraße 4 <br /> 
+                56179 Vallendar</td><td>Ansprechpartnerin: Andrea Menningen-Knöllinger <br /><br /><a href="mailto:kontakt@kompetenz-autismus.de">kontakt@kompetenz-autismus.de</a><br /></td></tr></tbody></table><script> id="

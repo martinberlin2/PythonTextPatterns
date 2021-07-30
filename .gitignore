@@ -1,0 +1,4 @@
+# start with empty .gitignore to learn what we don't need to commit
+
+
+*.bak
