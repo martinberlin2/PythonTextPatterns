@@ -156,8 +156,8 @@ def getTitle(base): # -> string Title. base: String, worin gesucht wird
 	delUntil = [endTrigger, endAt]
 	getPartString(base, delFrom, hitNumberFrom, delUntil, hitNumberUntil)
 	
-	
-	Titel = getPartString(block, delFrom[[Trigger: string, start: string]], hitNumberFrom, delUntil[[Trigger: string, end: string]], hitNumberUntil)
+	# TODO
+	# Titel = getPartString(block, delFrom[[Trigger: string, start: string]], hitNumberFrom, delUntil[[Trigger: string, end: string]], hitNumberUntil)
 	
 	
 	
@@ -178,5 +178,4 @@ def getTitle(base): # -> string Title. base: String, worin gesucht wird
 	# getPartString(base, delFrom, hitNumberFrom, delUntil, hitNumberUntil)
 	# getInfo(block)  ... getPartString für Kategorien ausführen
 	# main 
-Ambulante Autismushilfe Autismushilfen gemeinnützige GmbH 
 
