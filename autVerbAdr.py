@@ -158,7 +158,7 @@ def getTitle(base): # -> string Title. base: String, worin gesucht wird
 	
 	# TODO
 	# Titel = getPartString(block, delFrom[[Trigger: string, start: string]], hitNumberFrom, delUntil[[Trigger: string, end: string]], hitNumberUntil)
-	
+	 
 	
 	
 	# pydef thon readfile eof of file
