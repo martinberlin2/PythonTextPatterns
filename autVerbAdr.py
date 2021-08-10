@@ -181,12 +181,12 @@ def containsString(strg, substr, asWord): # -> pos of first char found or "subst
 		pos = pos + 1
 	return "substring not found"
 	
-	getPartString(base: string, delFrom[[Trigger: string, start: string]], hitNumberFrom, delUntil[Trigger: string, end: string], hitNumberUntil)
-	base: worin gesucht wird
-	delFrom: finde Trigger (hits+1), ab start beginnt result ("": sofort)
-	hitNumberFrom: welcher Hit startet result
-	delUntil[]: finde Trigger(hits+1), von start_result ab end endet result
-	hitNumberUntil: welcher Hit beendet result
+	# getPartString(base: string, delFrom[[Trigger: string, start: string]], hitNumberFrom, delUntil[Trigger: string, end: string], hitNumberUntil)
+	# base: worin gesucht wird
+	# delFrom: finde Trigger (hits+1), ab start beginnt result ("": sofort)
+	# hitNumberFrom: welcher Hit startet result
+	# delUntil[]: finde Trigger(hits+1), von start_result ab end endet result
+	# hitNumberUntil: welcher Hit beendet result
 
 	
 def getPartString(base, delFrom, howManyFindsNeededToStart, delUntil, howManyFindsNeededToEnd): # -> kein Treffer = "". delFrom von "Delimiter"
@@ -200,9 +200,8 @@ def getPartString(base, delFrom, howManyFindsNeededToStart, delUntil, howManyFin
 		baseForThisDelimiter = base
 		firststartposFromThisDelimiter = 0
 		while howmanyfound < howManyFindsNeededToStart: 
-			trigger = delfrom[delfrompos][0]
-			startAt = delfrom[delfrompos][1]
-			firststartposFromThisDelimiter = startposByDelimiter(base, trigger, startAt) # -> startposByDelimiter; -1 = nicht gefunden 
+			delim = delfrom[delfrompos]
+			firststartposFromThisDelimiter = startposByDelimiter(base, delim, howManyFindsNeededToStart) # -> startposByDelimiter; -1 = nicht gefunden 
 			
 			# baseForThisDelimiter = baseForThisDelimiter[firststartposFromThisDelimiter,len(baseForThisDelimiter)-1]
 			# finds = containsString(baseForThisDelimiter, trigger, False)
@@ -215,8 +214,8 @@ def getPartString(base, delFrom, howManyFindsNeededToStart, delUntil, howManyFin
 				# break
 			# firststartposFromThisDelimiter = finds + len(trigger)
 			# howmanyfound = howmanyfound + 1
-		# firststartposFromThisDelimiter ist gesetzt, -1 = nicht gefunden
-		Personio
+			# firststartposFromThisDelimiter ist gesetzt, -1 = nicht gefunden
+			....
 		delfrompos = delfrompos + 1
 		if firststartposFromThisDelimiter != -1:
 			if firststartposFromThisDelimiter < firststartpos:

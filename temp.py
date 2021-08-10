@@ -1,6 +1,7 @@
 # https://github.com/martinberlin2/PythonTextPatterns
 
-def startposByThisDelimiter(base, delim, howManyFindsNeeded) # -> delim=einer von delfrom  returns startpos; -1 = nicht gefunden
+# signatur passt jetzt
+def startposByDelimiter(base, delim, howManyFindsNeeded) # -> delim=einer von delfrom  returns startpos; -1 = nicht gefunden
 	trigger = delim[0]
 	startAt = delim[1]	
 	baseForThisSearch = base 

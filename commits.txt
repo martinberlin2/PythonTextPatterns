@@ -1,6 +1,12 @@
+work lab C:\Users\Lap126\Documents\GitHub\PythonTextPatterns
+priv lab 
+git https://github.com/martinberlin2/PythonTextPatterns/commit/e0ca842ad239f0d836b10472a0be585f2f06979a
+
 PythonTextPatterns
 
 30.7. init, Quellcode von privlab pushed 
 3007 1325 vb jetzt getPartString , darin findSubstr
 
 10.8. mal committen... bin noch in temp.py
+
+10.8. abends Signatur startposByDelimiter
