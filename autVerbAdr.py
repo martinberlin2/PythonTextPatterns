@@ -45,13 +45,6 @@ def getInfoByPattern(block): # -> csvString; delim = ";"
 	Website = getWebsite(block)
 	csvString = Titel + ";" + Kategorie + ";" + Adresse + ";" + Ansprechpartner + ";" + Mail + ";" + Website
 	return csvString
-	
-	getPartString(base: string, delFrom[[Trigger: string, start: string]], hitNumberFrom, delUntil[Trigger: string, end: string], hitNumberUntil)
-	base: worin gesucht wird
-	delFrom: finde Trigger (hits+1), ab start beginnt result ("": sofort)
-	hitNumberFrom: welcher Hit startet result
-	delUntil[]: finde Trigger(hits+1), von start_result ab end endet result
-	hitNumberUntil: welcher Hit beendet result
 
 
 # def getTitle(base): # -> base: string, delFrom[[Trigger: string, start: string]], hitNumberFrom, delUntil[Trigger: string, end: string], hitNumberUntil)
@@ -156,8 +149,82 @@ def getWebsite(base): # ->
 	delUntil = [endTrigger, endAt]
 	return getPartString(base, delFrom, hitNumberFrom, delUntil, hitNumberUntil)
 	
-def getPartString(base, delFrom, hitNumberFrom, delUntil, hitNumberUntil): 
+
+def getCharFromStringByPos(s, pos): #-> char oder None (bei IndexError)   -- von divers.py kopiert
+	if pos > len(s)-1 or pos < 0:
+		return None
+	return s[pos]
+
+def isWordSeparator(char): #-> True wenn char == None, Tab or Space  -- von divers.py kopiert
+	if char in [None, "	", " "]: # TAB, Blank
+		return True
+	return False
+
+def containsString(strg, substr, asWord): # -> pos of first char found or "substring not found". EmptyString -> "EmptyString", asWord: before and after TAB- or space- separated   -- von divers.py kopiert
+	if strg == '' or substr == '':
+		return "EmptyString"
+	# foundpos = False
+	pos = 0
+	endpos = len(strg) - len(substr)
+	while pos <= endpos :
+		if strg[pos] == substr[0]:
+			if strg[pos : pos + len(substr)] == substr:
+				if asWord == False:
+					return pos
+				else: 
+					charBefore = getCharFromStringByPos(strg, pos-1)
+					# logging.info("charBefore", str, pos-1, "!", charBefore, "!")
+					charAfter  = getCharFromStringByPos(strg, pos + len(substr))
+					# logging.info("charAfter", str, len(substr)+1, "!", charAfter, "!")
+					if isWordSeparator(charBefore) and isWordSeparator(charAfter):
+						return pos
+		pos = pos + 1
+	return "substring not found"
 	
+	getPartString(base: string, delFrom[[Trigger: string, start: string]], hitNumberFrom, delUntil[Trigger: string, end: string], hitNumberUntil)
+	base: worin gesucht wird
+	delFrom: finde Trigger (hits+1), ab start beginnt result ("": sofort)
+	hitNumberFrom: welcher Hit startet result
+	delUntil[]: finde Trigger(hits+1), von start_result ab end endet result
+	hitNumberUntil: welcher Hit beendet result
+
+	
+def getPartString(base, delFrom, howManyFindsNeededToStart, delUntil, howManyFindsNeededToEnd): # -> kein Treffer = "". delFrom von "Delimiter"
+	delfrompos = 0 
+	delfromlastpos = len(delFrom) -1
+	result = ""
+	firststartpos = -1
+	howmanyfound = 0
+	while delfrompos <= delfromlastpos:
+		# suche nach einem Delimiter -> firststartposFromThisDelimiter ; -1 wenn nicht gefunden
+		baseForThisDelimiter = base
+		firststartposFromThisDelimiter = 0
+		while howmanyfound < howManyFindsNeededToStart: 
+			trigger = delfrom[delfrompos][0]
+			startAt = delfrom[delfrompos][1]
+			firststartposFromThisDelimiter = startposByDelimiter(base, trigger, startAt) # -> startposByDelimiter; -1 = nicht gefunden 
+			
+			# baseForThisDelimiter = baseForThisDelimiter[firststartposFromThisDelimiter,len(baseForThisDelimiter)-1]
+			# finds = containsString(baseForThisDelimiter, trigger, False)
+			# if finds == "substring not found":
+				# firststartposFromThisDelimiter = -1
+				# break
+			# if finds == "EmptyString":
+				# firststartposFromThisDelimiter = -1
+				# logging("Empty String" + str(howmanyfound))
+				# break
+			# firststartposFromThisDelimiter = finds + len(trigger)
+			# howmanyfound = howmanyfound + 1
+		# firststartposFromThisDelimiter ist gesetzt, -1 = nicht gefunden
+		Personio
+		delfrompos = delfrompos + 1
+		if firststartposFromThisDelimiter != -1:
+			if firststartposFromThisDelimiter < firststartpos:
+				firststartpos = firststartposFromThisDelimiter
+	# 
+		
+		
+	# containsString(strg, substr, asWord)
 	
 	
 	# TODO
