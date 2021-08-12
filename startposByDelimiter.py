@@ -8,18 +8,27 @@ def getStartposByDelimiter(base, delim, howManyFindsNeeded) # -> delim=einer von
 	startpos = -1
 	howmanyfound = 0
 	while howmanyfound < howManyFindsNeeded: ## Fehler: is not numeric --> finds rausgeben
-		finds = containsString(base, trigger, False)
+		finds = containsString(baseForThisSearch, trigger, False)
 		# -> pos of first char found or "substring not found", or EmptyString -> "EmptyString", asWord (bool): before and after TAB- or space- separated   -- von divers.py kopiert
-		if finds == "substring not found":
-			startpos = -1
-			logging("substring not found" + str(howmanyfound))
-			break
-		if finds == "EmptyString":
-			startpos = -1
-			logging("Empty String" + str(howmanyfound))
-			break
+		
+		if type(finds) != type(1): # not numeric, ist also Fehlermeldung
+									## if finds == "substring not found":
+			logging(finds + " " + str(howmanyfound))
+			return -1
 		startpos = finds + len(trigger)
-		baseForThisSearch = baseForThisSearch[startpos,len(base)-1]
+		baseForThisSearch = baseForThisSearch[startpos,len(baseForThisSearch)-1]
 		howmanyfound = howmanyfound + 1
 	# firststartposFromThisDelimiter ist gesetzt, -1 = nicht gefunden
 	
+	# jetzt Start ab startAt 
+	baseForThisSearch = baseForThisSearch[startpos,len(baseForThisSearch)-1]
+	finds = containsString(baseForThisSearch, startAt, False)
+	if type(finds) != type(1): # not numeric, ist also Fehlermeldung
+									## if finds == "substring not found":
+		logging("Trigger found but not Starter")
+		return -1
+	startpos = finds + len(trigger)
+	
+	# startpos muss für base !
+	
+	# commit message hat Mergekonflikt 12.8. abends

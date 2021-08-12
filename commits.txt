@@ -18,3 +18,4 @@ git lern: bei Mergekonflikt erst nur Konflikt committen
 12.8. ist jetzt getStartposByDelimiter, aber erst nur commit Merge 
 
 12.8. 23:09 jetzt worklab geändert committen 
+	23:12 die Änderungen manuell nochmal rein
