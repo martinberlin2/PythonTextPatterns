@@ -4,6 +4,8 @@ git https://github.com/martinberlin2/PythonTextPatterns/commit/e0ca842ad239f0d83
 
 PythonTextPatterns
 
+git lern: bei Mergekonflikt erst nur Konflikt committen 
+
 30.7. init, Quellcode von privlab pushed 
 3007 1325 vb jetzt getPartString , darin findSubstr
 
@@ -14,3 +16,5 @@ PythonTextPatterns
 12.8. abends worklab Mergekonflikt: erst hier committen temp.py 
 
 12.8. ist jetzt getStartposByDelimiter, aber erst nur commit Merge 
+
+12.8. 23:09 jetzt worklab geändert committen 
