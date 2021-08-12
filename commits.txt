@@ -10,3 +10,5 @@ PythonTextPatterns
 10.8. mal committen... bin noch in temp.py
 
 10.8. abends Signatur startposByDelimiter
+
+12.8. abends worklab Mergekonflikt: erst hier committen temp.py 

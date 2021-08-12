@@ -20,3 +20,4 @@ def startposByDelimiter(base, delim, howManyFindsNeeded) # -> delim=einer von de
 		startpos = finds + len(trigger)
 		howmanyfound = howmanyfound + 1
 	# firststartposFromThisDelimiter ist gesetzt, -1 = nicht gefunden
+
