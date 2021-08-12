@@ -160,7 +160,7 @@ def isWordSeparator(char): #-> True wenn char == None, Tab or Space  -- von dive
 		return True
 	return False
 
-def containsString(strg, substr, asWord): # -> pos of first char found or "substring not found". EmptyString -> "EmptyString", asWord: before and after TAB- or space- separated   -- von divers.py kopiert
+def containsString(strg, substr, asWord): # -> pos of first char found or "substring not found", or EmptyString -> "EmptyString", asWord (bool): before and after TAB- or space- separated   -- von divers.py kopiert
 	if strg == '' or substr == '':
 		return "EmptyString"
 	# foundpos = False
