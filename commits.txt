@@ -20,3 +20,5 @@ git lern: bei Mergekonflikt erst nur Konflikt committen
 12.8. 23:09 jetzt worklab geändert committen 
 	23:12 die Änderungen manuell nochmal rein
 	23:15 Readme geaendet
+	
+16.8. auf privLab ist neuer Stand, ging nict zu pushen. Von Worklab Datei NewFileToPush.py reingeschoben
