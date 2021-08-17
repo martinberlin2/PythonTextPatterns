@@ -24,3 +24,5 @@ git lern: bei Mergekonflikt erst nur Konflikt committen
 16.8. auf privLab ist neuer Stand, ging nict zu pushen. Von Worklab Datei NewFileToPush.py reingeschoben
 
 17.8. code von privLab manuell reingeholt
+
+17.8. abends Var umbenannt..Alg müßte so laufen. Jetzt TC
